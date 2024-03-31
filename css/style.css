@@ -4487,7 +4487,8 @@ img.rounded-img {
 }
 @media (max-width: 767px) {
   .pattern_2 {
-    background-size: 50% auto;
+    background-size: auto;
+    
   }
 }
 
