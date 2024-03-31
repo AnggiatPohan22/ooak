@@ -4487,7 +4487,7 @@ img.rounded-img {
 }
 @media (max-width: 767px) {
   .pattern_2 {
-    background-size: 80% auto;
+    background-size: 50% auto;
   }
 }
 
@@ -4495,7 +4495,7 @@ img.rounded-img {
   background: #fff url(../img/pattern_ooak_1.png) top right no-repeat;
 }
 @media (max-width: 767px) {
-  .pattern_2 {
+  .pattern_ooak_1 {
     background-size: 80% auto;
   }
 }
