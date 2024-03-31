@@ -4484,11 +4484,8 @@ img.rounded-img {
 
 .pattern_2 {
   background: #fff url(../img/pattern_2.png) top right no-repeat;
-  -webkit-background-size: cover;
-  -moz-background-size: ;
-  -o-background-size: ;
-  background-size: 50%;
-  background-attachment: scroll;
+  background-attachment: fixed;
+  
 }
 @media (max-width: 767px) {
   .pattern_2 {
