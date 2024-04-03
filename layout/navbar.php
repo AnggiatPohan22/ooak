@@ -2,8 +2,8 @@
         <div class="container">
             <div class="row align-items-center">
                  <div class="col-6">
-                    <a href="index.html" class="logo_normal"><img src="img/logo_ooak.png" width="135" height="45" alt="Logo One Of A Kind Resort Bintan"></a>
-                    <a href="index.html" class="logo_sticky"><img src="img/logo_sticky_ooak.png" width="135" height="45" alt="Logo One Of A Kind Resort Bintan"></a>
+                    <a href="index.php" class="logo_normal"><img src="img/logo_ooak.png" width="135" height="45" alt="Logo One Of A Kind Resort Bintan"></a>
+                    <a href="index.php" class="logo_sticky"><img src="img/logo_sticky_ooak.png" width="135" height="45" alt="Logo One Of A Kind Resort Bintan"></a>
                 </div>
                 <div class="col-6">
                     <nav>
@@ -29,22 +29,22 @@
         <div class="sidebar-navigation">
             <nav>
                 <ul class="level-1">
-                    <li><a href="index.html">Home</a></li>
+                    <li><a href="index.php">Home</a></li>
                     <li class="parent"><a href="#0">Our Villa</a>
                         <ul class="level-2">
                             <li class="back"><a href="#0">Back</a></li>
-                            <li><a href="room-details-isla.html">Villa Isla</a></li>
-                            <li><a href="room-details-execu.html">Villa Aqua Executive</a></li>
-                            <li><a href="room-details-junior.html">Villa Aqua Junior</a></li>
-                            <li><a href="room-details-president.html">Villa Aqua President</a></li>
-                            <!-- <li><a href="room-details-booking.html">Working Booking Request</a></li> -->
+                            <li><a href="room-details-isla.php">Villa Isla</a></li>
+                            <li><a href="room-details-execu.php">Villa Aqua Executive</a></li>
+                            <li><a href="room-details-junior.php">Villa Aqua Junior</a></li>
+                            <li><a href="room-details-president.php">Villa Aqua President</a></li>
+                            <!-- <li><a href="room-details-booking.php">Working Booking Request</a></li> -->
                         </ul>
                     </li>
                     <li class="parent"><a href="#0">Services & Facilities</a>
                         <ul class="level-2">
                             <li class="back"><a href="#0">Back</a></li>
                             <li><a href="#">Our Services</a></li>
-                            <li><a href="restaurant.html">Restaurant</a></li>
+                            <li><a href="restaurant.php">Restaurant</a></li>
                             <li><a href="#">Main Pool</a></li>
                             <li><a href="#">Spa</a></li>
                         </ul>
@@ -61,28 +61,28 @@
                         </ul>
                     </li>
                     <li><a href="#">Gallery</a></li>
-                  <!--  <li><a href="about.html">About</a></li>
-                    <li><a href="restaurant.html">Restaurant</a></li>
-                    <li><a href="news-1.html">News & events</a></li>
-                    <li><a href="contacts.html">Contact</a></li>
+                  <!--  <li><a href="about.php">About</a></li>
+                    <li><a href="restaurant.php">Restaurant</a></li>
+                    <li><a href="news-1.php">News & events</a></li>
+                    <li><a href="contacts.php">Contact</a></li>
                     <li class="parent"><a href="#0">Other Pages</a>
                         <ul class="level-2">
                             <li class="back"><a href="#0">Back</a></li>
-                            <li><a href="404.html">Error Page</a></li>
-                            <li><a href="gallery.html">Masonry Gallery</a></li>
-                            <li><a href="menu-of-the-day.html">Menu of the day</a></li>
-                            <li><a href="modal-advertise-1.html">Modal Advertise</a></li>
-                            <li><a href="cookie-bar.html">GDPR Cookie Bar</a></li>
-                            <li><a href="coming-soon.html">Coming Soon</a></li>
+                            <li><a href="404.php">Error Page</a></li>
+                            <li><a href="gallery.php">Masonry Gallery</a></li>
+                            <li><a href="menu-of-the-day.php">Menu of the day</a></li>
+                            <li><a href="modal-advertise-1.php">Modal Advertise</a></li>
+                            <li><a href="cookie-bar.php">GDPR Cookie Bar</a></li>
+                            <li><a href="coming-soon.php">Coming Soon</a></li>
                         </ul>
                     </li>
                     <li class="parent"><a href="#0">Menu Versions</a>
                         <ul class="level-2">
                             <li class="back"><a href="#0">Back</a></li>
-                            <li><a href="menu-2.html">Menu Version 2 <span class="custom_badge">Hot</span></a></li>
-                            <li><a href="menu-3.html">Menu Version 3</a></li>
-                            <li><a href="menu-4.html">Menu Version 4</a></li>
-                            <li><a href="menu-5.html">Menu Version 5</a></li>
+                            <li><a href="menu-2.php">Menu Version 2 <span class="custom_badge">Hot</span></a></li>
+                            <li><a href="menu-3.php">Menu Version 3</a></li>
+                            <li><a href="menu-4.php">Menu Version 4</a></li>
+                            <li><a href="menu-5.php">Menu Version 5</a></li>
                         </ul>
                     </li> -->
                 </ul>

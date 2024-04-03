@@ -1,33 +1,9 @@
-<!DOCTYPE html>
-<html lang="zxx">
-
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="">
-    <meta name="author" content="Ansonika">
-    <title>One Of A Kind Resort</title>
-    
-    <!-- Favicons-->
-    <link rel="shortcut icon" href="img/favicon_logo.png" type="image/x-icon">
-    <link rel="apple-touch-icon" type="image/x-icon" href="img/apple-touch-icon-57x57-precomposed.png">
-    <link rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="img/apple-touch-icon-72x72-precomposed.png">
-    <link rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="img/apple-touch-icon-114x114-precomposed.png">
-    <link rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="img/apple-touch-icon-144x144-precomposed.png">
-
-    <!-- GOOGLE WEB FONT-->
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
-    <!-- BASE CSS -->
-    <link href="css/bootstrap.min.css" rel="stylesheet">
-    <link href="css/style.css" rel="stylesheet">
-	<link href="css/vendors.min.css" rel="stylesheet">
-
-    <!-- YOUR CUSTOM CSS -->
-    <link href="css/custom.css" rel="stylesheet">
-</head>
+<!DOCTYPE php>
+<php lang="zxx">
+<?php
+require("layout/header.php");
+require("layout/navbar.php");
+?>
 
 <body> 
 
@@ -37,97 +13,12 @@
 
     <div class="layer"></div><!-- Opacity Mask -->
 
-    <header class="reveal_header">
-        <div class="container">
-            <div class="row align-items-center">
-                 <div class="col-6">
-                    <a href="index.html" class="logo_normal"><img src="img/logo_ooak.png" width="135" height="45" alt=""></a>
-                    <a href="index.html" class="logo_sticky"><img src="img/logo_sticky_ooak.png" width="135" height="45" alt=""></a>
-                </div>
-                <div class="col-6">
-                    <nav>
-                        <ul>
-                            <li><a href="#booking_section" class="btn_1 me-1 btn_scrollto">Book Now</a></li>
-                            <li>
-                               <div class="hamburger_2 open_close_nav_panel">
-                                    <div class="hamburger__box">
-                                        <div class="hamburger__inner"></div>
-                                    </div>
-                                </div>
-                            </li>
-                        </ul>
-                    </nav>
-                </div>
-            </div>
-        </div><!-- /container -->
-    </header><!-- /Header -->
-
-    <div class="nav_panel">
-        <a href="#" class="closebt open_close_nav_panel"><i class="bi bi-x"></i></a>
-        <div class="logo_panel"><img src="img/logo_sticky_ooak.png" width="135" height="45" alt=""></div>
-        <div class="sidebar-navigation">
-            <nav>
-                <ul class="level-1">
-                    <li><a href="#0">Home</a> </li>
-                    <li class="parent"><a href="#0">Our Villa</a>
-                        <ul class="level-2">
-                            <li class="back"><a href="#0">Back</a></li>
-                            <li><a href="room-list-1.html">Villa Isla</a></li>
-                            <li><a href="room-list-2.html">Villa Aqua Executive</a></li>
-                            <li><a href="room-list-3.html">Villa Aqua Junior</a></li>
-                            <li><a href="room-details.html">Villa Aqua President</a></li>
-                            <!-- <li><a href="room-details-booking.html">Working Booking Request</a></li> -->
-                        </ul>
-                    </li>
-                    <li class="parent"><a href="#0">Services & Facilities</a>
-                        <ul class="level-2">
-                            <li class="back"><a href="#0">Back</a></li>
-                            <li><a href="room-list-1.html">Our Services</a></li>
-                            <li><a href="room-list-2.html">Azura Bistro Resto</a></li>
-                            <li><a href="room-list-3.html">Ocean House</a></li>
-                            <li><a href="room-details.html">Main Pool</a></li>
-                            <li><a href="room-details-booking.html">Spa</a></li>
-                        </ul>
-                    </li>
-                    <li class="parent"><a href="#0">Promo & Package</a>
-                        <ul class="level-2">
-                            <li class="back"><a href="#0">Back</a></li>
-                            <li><a href="room-list-1.html">Promo of The Month</a></li>
-                            <li><a href="room-list-2.html">Meeting Package</a></li>
-                            <li><a href="room-list-3.html">Romantic Package</a></li>
-                            <li><a href="room-details.html">Wedding Package</a></li>
-                            <li><a href="room-details-booking.html">Sea Activity</a></li>
-                            <li><a href="room-details-booking.html">Stay & Tour Package</a></li>
-                        </ul>
-                    </li>
-                    <li><a href="gallery.html">Gallery</a></li>
-                  <!--  <li class="parent"><a href="#0">Menu Versions</a>
-                        <ul class="level-2">
-                            <li class="back"><a href="#0">Back</a></li>
-                            <li><a href="menu-2.html">Menu Version 2 <span class="custom_badge">Hot</span></a></li>
-                            <li><a href="menu-3.html">Menu Version 3</a></li>
-                            <li><a href="menu-4.html">Menu Version 4</a></li>
-                            <li><a href="menu-5.html">Menu Version 5</a></li>
-                        </ul>
-                    </li> -->
-                </ul>
-                <div class="panel_footer">
-                    <div class="phone_element"><a href="tel://423424234"><i class="bi bi-telephone"></i><span><em>Info and bookings</em>+62 823 1309 9999</span></a></div>
-                </div>
-                <!-- /panel_footer -->
-            </nav>
-        </div>
-        <!-- /sidebar-navigation -->
-    </div>
-    <!-- /nav_panel -->
-
- 
     <main>
 
         <div class="hero full-height pinned-image" data-speed="0.2">
             <div class="pinned-image__container" id="section_video">
                 <video loop="loop" muted="muted" id="video_home">
-                    <source src="video/rooms .mp4" type="video/mp4">
+                    <source src="video/rooms.mp4" type="video/mp4">
                     <source src="video/swimming_pool_2.webm" type="video/webm">
                     <source src="video/swimming_pool_2.ogv" type="video/ogg">
                 </video>
@@ -135,8 +26,8 @@
             </div>
             <div class="pinned_over_content">
                 <div class="title white">
-                    <small data-cue="slideInUp" data-delay="200">Luxury Resort Bintan</small>
-                    <h2 data-cue="slideInUp" data-delay="300">Our Villa</h2>
+                    <small data-cue="slideInUp" data-delay="200">POV</small>
+                    <h2 data-cue="slideInUp" data-delay="300">OUR VILLA'S</h2>
                 </div>
             </div>
         </div>
@@ -152,7 +43,8 @@
             </div>
         </div> --> 
         <!-- /Background Img Parallax -->
-
+        
+        <!-- container -->
         <div class="container margin_120_0">
             <div class="row_list_version_2">
                 <div class="row g-0 align-items-center">
@@ -191,13 +83,13 @@
                                 </ul>
                             </div>
                             <div class="box_item_footer d-flex align-items-center justify-content-between">
-                                <a href="#0" class="btn_4 learn-more">
+                                <a href="room-details-isla.php" class="btn_4 learn-more">
                                     <span class="circle">
                                         <span class="icon arrow"></span>
                                     </span>
                                     <span class="button-text">Book Now</span>
                                 </a>
-                                <a href="room-details-isla.html" class="animated_link">
+                                <a href="room-details-isla.php" class="animated_link">
                                     <strong>Details</strong>
                                 </a>
                             </div>
@@ -243,13 +135,13 @@
                                 </ul>
                             </div>
                             <div class="box_item_footer d-flex align-items-center justify-content-between">
-                                <a href="#0" class="btn_4 learn-more">
+                                <a href="room-details-execu.php" class="btn_4 learn-more">
                                     <span class="circle">
                                         <span class="icon arrow"></span>
                                     </span>
                                     <span class="button-text">Book Now</span>
                                 </a>
-                                <a href="room-details-execu.html" class="animated_link">
+                                <a href="room-details-execu.php" class="animated_link">
                                     <strong>Details</strong>
                                 </a>
                             </div>
@@ -295,13 +187,13 @@
                                 </ul>
                             </div>
                             <div class="box_item_footer d-flex align-items-center justify-content-between">
-                                <a href="#0" class="btn_4 learn-more">
+                                <a href="room-details-junior.php" class="btn_4 learn-more">
                                     <span class="circle">
                                         <span class="icon arrow"></span>
                                     </span>
                                     <span class="button-text">Book Now</span>
                                 </a>
-                                <a href="room-details-junior.html" class="animated_link">
+                                <a href="room-details-junior.php" class="animated_link">
                                     <strong>Details</strong>
                                 </a>
                             </div>
@@ -353,7 +245,7 @@
                                     </span>
                                     <span class="button-text">Book Now</span>
                                 </a>
-                                <a href="room-details-president.html" class="animated_link">
+                                <a href="room-details-president.php" class="animated_link">
                                     <strong>Details</strong>
                                 </a>
                             </div>
@@ -370,49 +262,9 @@
         </div>
         <!-- /container -->
 
-        <div class="bg_white">
-            <div class="container margin_120_95">
-                <div class="title mb-3">
-                    <small data-cue="slideInUp">Luxury experience</small>
-                    <h2 data-cue="slideInUp" data-delay="200">Special Offers</h2>
-                </div>
-                <div class="row justify-content-center home">
-                    <div class="item col-xl-4 col-lg-6">
-                        <a href="news-post.html" class="box_contents" data-cue="slideInUp" data-delay="300">
-                            <figure><img src="img/ramadhan.jpg" alt="" class="img-fluid"><em>12 March - 9 Apr</em></figure>
-                            <div class="wrapper">
-                                <small>Ramadhan<span></span></small>
-                                <h2>Ramadhan Iftar Package</h2>
-                                <em>Read more</em>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="item col-xl-4 col-lg-6">
-                        <a href="news-post.html" class="box_contents" data-cue="slideInUp" data-delay="400">
-                            <figure><img src="img/call&deal.jpg" alt="" class="img-fluid"><em>March</em></figure>
-                            <div class="wrapper">
-                                <small>Hot Deal<span></span></small>
-                                <h2>Call & Deal Promo</h2>
-                                <em>Read more</em>
-                            </div>
-                        </a>
-                    </div>
-                    <div class="item col-xl-4 col-lg-6">
-                        <a href="news-post.html" class="box_contents" data-cue="slideInUp" data-delay="500">
-                            <figure><img src="img/F&Bpromo.jpg" alt="" class="img-fluid"><em>March - Mei</em></figure>
-                            <div class="wrapper">
-                                <small>F&B Promo<span></span></small>
-                                <h2>Of The Month Package</h2>
-                                <em>Read more</em>
-                            </div>
-                        </a>
-                    </div>
-                </div>
-                <!--/row -->
-                <p class="text-end"><a href="news-1.html" class="btn_1 outline mt-2" data-cue="slideInUp" data-delay="600">View all News</a></p>
-            </div>
-            <!--/container -->
-        </div>
+        <?php
+        require("layout/list-package.php")
+        ?>
     <!--    <div class="pinned-image pinned-image--medium">
             <div class="pinned-image__container" id="section_video">
                 <video loop="loop" muted="muted" id="video_home">
@@ -520,67 +372,9 @@
 
     </main>
 
-    <footer class="revealed">
-        <div class="footer_bg">
-            <div class="gradient_over"></div>
-            <div class="background-image" data-background="url(img/rooms/footer_bg.jpg)"></div>
-        </div>
-        <div class="container">
-            <div class="row move_content">
-                <div class="col-lg-4 col-md-12">
-                    <h5>Contacts</h5>
-                    <ul>
-                        <li>Jl.Trikora 3 Malang Rapat<br>Bintan - Kepri<br><br></li>
-                        <li><strong><a href="#0">info@Oneofakindbintan.com</a></strong></li>
-                        <li><strong><a href="#0">+62 823 1309 9999</a></strong></li>
-                    </ul>
-                    <div class="social">
-                        <ul>
-                            <li><a href="#0"><i class="bi bi-instagram"></i></a></li>
-                            <li><a href="#0"><i class="bi bi-youtube"></i></a></li>
-                            <li><a href="#0"><i class="bi bi-facebook"></i></a></li>
-                            <li><a href="#0"><i class="bi bi-twitter-x"></i></a></li>
-                            <li><a href="#0"><i class="bi bi-tiktok"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 ms-lg-auto">
-                    <h5>Explore</h5>
-                    <div class="footer_links">
-                        <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="room-list-1.html">Our Villa</a></li>
-                            <li><a href="news-1.html">Services &amp; Facilities</a></li>
-                            <li><a href="news-1.html">Promo &amp; Packages</a></li>
-                            <li><a href="about.html">Gallery</a></li>
-                            <li><a href="contacts.html">Contacts / Book Now</a></li>
-                            </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div id="newsletter">
-                        <h5>Newsletter</h5>
-                        <div id="message-newsletter"></div>
-                        <form method="post" action="phpmailer/newsletter_template_email.php" name="newsletter_form" id="newsletter_form">
-                            <div class="form-group">
-                                <input type="email" name="email_newsletter" id="email_newsletter" class="form-control" placeholder="Your email">
-                                <button type="submit" id="submit-newsletter"><i class="bi bi-send"></i></button>
-                            </div>
-                        </form>
-                        <p>Receive latest offers and promos without spam. You can cancel anytime.</p>
-                    </div>
-                </div>
-            </div>
-            <!--/row-->
-        </div>
-        <!--/container-->
-        <div class="copy">
-            <div class="container">
-                © One Of A Kind Resort - by <a href="#">AP-Developer</a>
-            </div>
-        </div>
-    </footer>
+        <?php
+        require("layout/footer.php")
+        ?>
     <!-- /footer -->
    
     <div class="progress-wrap">
@@ -597,4 +391,4 @@
 <script src="phpmailer/validate.js"></script>
 
 </body>
-</html>
+</php>

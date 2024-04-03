@@ -5,7 +5,7 @@
             </div>
             <div class="row justify-content-center add_bottom_90" data-cues="slideInUp" data-delay="300">
                 <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                    <a href="room-details-isla.html" class="box_cat_rooms">
+                    <a href="room-details-isla.php" class="box_cat_rooms">
                         <figure>
                             <div class="background-image" data-background="url(img/rooms/villa_isla.jpg)"></div>
                             <div class="info">
@@ -17,7 +17,7 @@
                     </a>
                 </div>
                 <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
-                    <a href="room-details-execu.html" class="box_cat_rooms">
+                    <a href="room-details-execu.php" class="box_cat_rooms">
                         <figure>
                             <div class="background-image" data-background="url(img/rooms/villa_execu.jpg)"></div>
                             <div class="info">
@@ -29,7 +29,7 @@
                     </a>
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
-                    <a href="room-details-junior.html" class="box_cat_rooms">
+                    <a href="room-details-junior.php" class="box_cat_rooms">
                         <figure>
                             <div class="background-image" data-background="url(img/rooms/villa_junior.jpg)"></div>
                             <div class="info">
@@ -41,7 +41,7 @@
                     </a>
                 </div>
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
-                    <a href="room-details-president.html" class="box_cat_rooms">
+                    <a href="room-details-president.php" class="box_cat_rooms">
                         <figure>
                             <div class="background-image" data-background="url(img/rooms/villa_president.jpg)"></div>
                             <div class="info">
@@ -52,7 +52,7 @@
                         </figure>
                     </a>
                 </div>
-                <p class="text-end"><a href="view_all_villa.html" class="btn_1 outline mt-2">View all Rooms</a></p>
+                <p class="text-end"><a href="view_all_villa.php" class="btn_1 outline mt-2">View all Rooms</a></p>
             </div>
             <!-- /row-->
 

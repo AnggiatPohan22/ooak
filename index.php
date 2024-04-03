@@ -59,7 +59,7 @@ require("layout/navbar.php");
                     </div>
                 </div>
                 <div class="mouse_wp slide-animated four">
-                    <a href="index.html" class="btn_scrollto">
+                    <a href="index.php" class="btn_scrollto">
                         <div class="mouse"></div>
                     </a>
                 </div>
@@ -150,7 +150,7 @@ require("layout/navbar.php");
                                 open for lunch and dinner,
                                 Oceanhouse is an open-air restaurant where guests can enjoy a 
                                 variety of Chinese and seafood-themed buffets </p>
-                            <p><a href="restaurant.html" class="btn_1 mt-1 outline">Read more</a></p>
+                            <p><a href="restaurant.php" class="btn_1 mt-1 outline">Read more</a></p>
                         </div>
                     </div>
                 </div>
@@ -174,7 +174,7 @@ require("layout/navbar.php");
                                 statues, and typical Bintan batik which are suitable for gifts or
                                 as a memory of your stay experience
                                 fun at One Of A Kind Resort.</p>
-                            <p><a href="about.html" class="btn_1 mt-1 outline">Read more</a></p>
+                            <p><a href="about.php" class="btn_1 mt-1 outline">Read more</a></p>
                         </div>
                     </div>
                 </div>
@@ -197,7 +197,7 @@ require("layout/navbar.php");
                                 offering a sundeck, pool towels and life jackets if available,
                                 Infinity Pool has a beautiful view of the beach
                                 white with open sea.</p>
-                            <p><a href="about.html" class="btn_1 mt-1 outline">Read more</a></p>
+                            <p><a href="about.php" class="btn_1 mt-1 outline">Read more</a></p>
                         </div>
                     </div>
                 </div>
@@ -227,7 +227,7 @@ require("layout/navbar.php");
     </main>
     
     <!-- /footer -->
-    <?php
+        <?php
         require("layout/footer.php")
         ?>
     <!-- /footer -->
