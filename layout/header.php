@@ -7,7 +7,7 @@
     <title>One Of A Kind Resort Bintan - Nature & Uniq Concept Resort at Island Bintan</title>
     
     <!-- Favicons-->
-    <link rel="icon" type="image/png" sizes="16x16"  href="/img/favicon-16x16.png">
+    <link rel="shortcut icon" type="image/x-icon" sizes="16x16"  href="img/logo-ooak.ico">
     <link defer async rel="apple-touch-icon" type="image/x-icon" href="img/apple-touch-icon-57x57.png">
     <link defer async rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
     <link defer async rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
