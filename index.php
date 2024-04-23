@@ -5,7 +5,10 @@
 require("layout/header.php");
 require("layout/navbar.php");
 ?>
-
+    
+    <meta name="description" content="Find your perfect getaway at One Of A Kind Resort-Bintan Explore our collection of luxury & budget hotels & resorts worldwide. Book online & save with exclusive deals!">
+    <meta name="author" content="One Of A Kind Resort">
+    <title>One Of A Kind Resort Bintan - Nature & Uniq Concept Resort at Island Bintan</title>
 
 <body> 
 
