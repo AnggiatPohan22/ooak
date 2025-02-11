@@ -147,12 +147,12 @@ Main Components
   }
 }
 .half-container {
-  background: #fff url(../img/daymenu/pattern_menu.jpg) no-repeat center center;
+  background: #ffffff00 url(../img/daymenu/pattern_menu_resto.jpg) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
-  color: #263b40;
+  color: #403326;
   text-align: center;
 }
 
@@ -168,27 +168,27 @@ Main Components
 }
 
 .menu-section:nth-of-type(2) .half-container:first-of-type {
-  background-image: url("../img/daymenu/img-1.jpg");
+  background-image: url("/img/daymenu/app.jpg");
   background-size: cover;
 }
 
 .menu-section:nth-of-type(3) .half-container:first-of-type {
-  background-image: url("../img/daymenu/img-2.jpg");
+  background-image: url("../img/daymenu/app.jpg");
   background-size: cover;
 }
 
 .menu-section:nth-of-type(4) .half-container:first-of-type {
-  background-image: url("../img/daymenu/img-3.jpg");
+  background-image: url("../img/daymenu/app.jpg");
   background-size: cover;
 }
 
 .menu-section:nth-of-type(5) .half-container:first-of-type {
-  background-image: url("../img/daymenu/img-4.jpg");
+  background-image: url("../img/daymenu/app.jpg");
   background-size: cover;
 }
 
 .menu-section:nth-of-type(6) .half-container:first-of-type {
-  background-image: url("../img/daymenu/img-5.jpg");
+  background-image: url("../img/daymenu/app.jpg");
   background-size: cover;
 }
 

@@ -2,37 +2,10 @@
 <!DOCTYPE html>
 <html lang="zxx">
 <?php
-require("layout/navbar.php")
-?>
-<head>
-    <meta charset="utf-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta name="description" content="Find your perfect getaway at One Of A Kind Resort-Bintan Explore our collection of luxury & budget hotels & resorts worldwide. Book online & save with exclusive deals!">
-    <meta name="author" content="One Of A Kind Resort">
-    <title>One Of A Kind Resort Bintan - Nature & Uniq Concept Resort at Island Bintan</title>
-    
-    <!-- Favicons-->
-    <link rel="shortcut icon" type="image/x-icon" sizes="16x16"  href="/img/logo-ooak.ico">
-    <link defer async rel="apple-touch-icon" type="image/x-icon" href="img/apple-touch-icon-57x57.png">
-    <link defer async rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
-    <link defer async rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">
-    <link defer async rel="apple-touch-icon" type="image/x-icon" sizes="144x144" href="img/apple-touch-icon-114x114.png">
+require("layout/header.php");
+require("layout/navbar.php");
+?>  
 
-    <!-- GOOGLE WEB FONT-->
-    <link defer async rel="preconnect" href="https://fonts.googleapis.com">
-    <link defer async rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link defer async href="https://fonts.googleapis.com/css2?family=Caveat:wght@400;500&family=Montserrat:wght@300;400;500;600;700&display=swap" rel="stylesheet">
-
-    <!-- BASE CSS -->
-    <link defer  href="css/bootstrap.min.css" rel="stylesheet">
-    <link defer  href="css/style.css" rel="stylesheet">
-	<link defer  href="css/vendors.min.css" rel="stylesheet">
-
-    <!-- YOUR CUSTOM CSS -->
-    <link defer async href="css/custom.css" rel="stylesheet">
-
-</head>
-    
 
 <body> 
 
@@ -47,7 +20,7 @@ require("layout/navbar.php")
 
     <main>
         <!-- main index -->
-        <div class="hero home-search full-height jarallax" data-jarallax-video="mp4:./video/cover.mp4,webm:./video/sunset.webm,ogv:./video/sunset.ogv" data-speed="0.2">
+      <!--  <div class="hero home-search full-height jarallax" data-jarallax-video="mp4:./video/cover.mp4,webm:./video/sunset.webm,ogv:./video/sunset.ogv" data-speed="0.2">
             <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
                     <small class="slide-animated one">Luxury Resort Experience</small>
@@ -90,11 +63,29 @@ require("layout/navbar.php")
                         <div class="mouse"></div>
                     </a>
                 </div>
-                <!-- /mouse_wp -->
+                 /mouse_wp 
             </div>
         </div>
-        <!-- /jarallax video background -->
+         /jarallax video background -->
         <!-- /main index -->
+
+        <div class="hero full-height jarallax" data-jarallax data-speed="0.2">
+            <img class="jarallax-img kenburns" src="img/LDF_8719.jpg" alt="">
+            <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
+                <div class="container">
+                    <small class="slide-animated one">Luxury Resort Experience</small>
+                    <h3 class="slide-animated two">A unique Experience<br>where to stay</h3>
+                    <small > Website Under Maintanance</small>
+                   <div class="slide-animated three"><a class="btn_1 outline white mt-3" href="view_all_villa.php">Read more</a></div>
+                </div>
+                <div class="mouse_wp slide-animated four">
+                    <a href="#first_section" class="btn_scrollto">
+                        <div class="mouse"></div>
+                    </a>
+                </div>
+                <!-- / mouse -->
+            </div>
+        </div>
 
         <div class="pattern_2">
             <div class="container margin_120_95" id="first_section">
@@ -201,7 +192,7 @@ require("layout/navbar.php")
                                 statues, and typical Bintan batik which are suitable for gifts or
                                 as a memory of your stay experience
                                 fun at One Of A Kind Resort.</p>
-                            <p><a href="about.php" class="btn_1 mt-1 outline">Read more</a></p>
+                            <p><a href="#" class="btn_1 mt-1 outline">Read more</a></p>
                         </div>
                     </div>
                 </div>
@@ -224,7 +215,7 @@ require("layout/navbar.php")
                                 offering a sundeck, pool towels and life jackets if available,
                                 Infinity Pool has a beautiful view of the beach
                                 white with open sea.</p>
-                            <p><a href="about.php" class="btn_1 mt-1 outline">Read more</a></p>
+                            <p><a href="#" class="btn_1 mt-1 outline">Read more</a></p>
                         </div>
                     </div>
                 </div>

@@ -3,11 +3,11 @@
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="Find your perfect getaway at One Of A Kind Resort-Bintan Explore our collection of luxury & budget hotels & resorts worldwide. Book online & save with exclusive deals!">
-    <meta name="author" content="One Of A Kind Resort">
+    <meta name="Anggiat Pohan" content="One Of A Kind Resort">
     <title>One Of A Kind Resort Bintan - Nature & Uniq Concept Resort at Island Bintan</title>
     
     <!-- Favicons-->
-    <link rel="shortcut icon" type="image/x-icon" sizes="16x16"  href="/img/logo-ooak.ico">
+    <link rel="shortcut icon" type="image/x-icon" sizes="16x16"  href="img/favicon-16x16.png">
     <link defer async rel="apple-touch-icon" type="image/x-icon" href="img/apple-touch-icon-57x57.png">
     <link defer async rel="apple-touch-icon" type="image/x-icon" sizes="72x72" href="img/apple-touch-icon-72x72.png">
     <link defer async rel="apple-touch-icon" type="image/x-icon" sizes="114x114" href="img/apple-touch-icon-114x114.png">

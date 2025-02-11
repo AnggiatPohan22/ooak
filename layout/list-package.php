@@ -6,11 +6,11 @@
                 </div>
                 <div class="row justify-content-center home">
                     <div class="item col-xl-4 col-lg-6">
-                        <a href="news-post.html" class="box_contents" data-cue="slideInUp" data-delay="300">
-                            <figure><img src="img/ramadhan.jpg" alt="Special Ramadhan Iftar Package" class="img-fluid"><em>12 March - 9 Apr</em></figure>
+                        <a href="/layout/package1.php" class="box_contents" data-cue="slideInUp" data-delay="300">
+                            <figure><img src="img/ramadhan.jpg" alt="Sweetember Promo" class="img-fluid"><em>1 - 31 September</em></figure>
                             <div class="wrapper">
-                                <small>Ramadhan<span></span></small>
-                                <h2>Ramadhan Iftar Package</h2>
+                                <small>Sweetember<span></span></small>
+                                <h2>Promo Sweetember 2024</h2>
                                 <em>Read more</em>
                             </div>
                         </a>

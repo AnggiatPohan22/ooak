@@ -118,7 +118,7 @@ require("layout/navbar.php");
                             <strong>Breakfast</strong> <span>7.00am – 10.30am</span>
                         </li>  -->
                         <li class="d-flex justify-content-between mb-2 text-end">
-                            <strong>Lunch</strong>  <span>10.00am – 3.00pm<br><small>(kitchen close at 1.30pm)</small></span>
+                            <strong>Lunch</strong>  <span>10.00am – 3.00pm<br><small>(kitchen close at 11.30pm)</small></span>
                         </li>
                     <!--    <li class="d-flex justify-content-between mb-2 text-end">
                             <strong>Dinner</strong>  <span>open from 7.30pm<br><small>(kitchen close at 11.30pm)</small></span>
@@ -152,17 +152,17 @@ require("layout/navbar.php");
               <div class="tabs_menu" data-cue="slideInUp" data-delay="200">
                     <ul class="nav nav-tabs" role="tablist">
                         <li class="nav-item">
-                            <a id="tab-A" href="#pane-A" class="nav-link active" data-bs-toggle="tab" role="tab">Starters</a>
+                            <a id="tab-A" href="#Azura-Bistro" class="nav-link active" data-bs-toggle="tab" role="tab">Azura Bistro</a>
                         </li>
                         <li class="nav-item">
-                            <a id="tab-B" href="#pane-B" class="nav-link" data-bs-toggle="tab" role="tab">Main Dishes</a>
+                            <a id="tab-B" href="#Oceanhouse" class="nav-link" data-bs-toggle="tab" role="tab">Oceanhouse</a>
                         </li>
                          <li class="nav-item">
-                            <a id="tab-C" href="#pane-C" class="nav-link" data-bs-toggle="tab" role="tab">Desserts</a>
+                            <a id="tab-C" href="#Promo-month" class="nav-link" data-bs-toggle="tab" role="tab">Promo of The Month</a>
                         </li>
                     </ul>
                     <div class="tab-content add_bottom_25" role="tablist">
-                        <div id="pane-A" class="card tab-pane fade show active" role="tabpanel" aria-labelledby="tab-A">
+                        <div id="Azura-Bistro" class="card tab-pane fade show active" role="tabpanel" aria-labelledby="tab-A">
                             <div class="card-header" role="tab" id="heading-A">
                                 <h5>
                                     <a class="collapsed" data-bs-toggle="collapse" href="#collapse-A" aria-expanded="true" aria-controls="collapse-A">
@@ -172,15 +172,15 @@ require("layout/navbar.php");
                             </div>
                             <div id="collapse-A" class="collapse" role="tabpanel" aria-labelledby="heading-A">
                                 <div class="card-body">
-                                    <div class="banner background-image" data-background="url(img/restaurant/banner_bg_2.jpg)">
+                                    <div class="banner background-image" data-background="url(img/restaurant/banner_bg_western.jpg)">
                                         <div class="wrapper d-flex align-items-center justify-content-between opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.6)">
                                             <div>
                                                <small>Starters Special Offer</small>
                                                 <h3>Mix Starters Menu $18 only</h3>
                                                 <p>Hamburgher, Chips, Mix Sausages, Beer, Muffin</p>
-                                                <a href="menu-of-the-day.html" class="btn_1">View Menu</a>
+                                                <a href="menu-of-the-day2.php" class="btn_1">View Menu</a>
                                             </div>
-                                            <figure class="d-none d-lg-block"><img src="img/restaurant/banner.svg" alt="" width="200" height="200" class="img-fluid"></figure>
+                                            <figure class="d-none d-lg-block"><img src="img/restaurant/azura.svg" alt="" width="200" height="200" class="img-fluid"></figure>
                                         </div>
                                         <!-- /wrapper -->
                                     </div>
@@ -271,7 +271,7 @@ require("layout/navbar.php");
                             </div>
                         </div>
                         <!-- /tab -->
-                        <div id="pane-B" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-B">
+                        <div id="Oceanhouse" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-B">
                             <div class="card-header" role="tab" id="heading-B">
                                 <h5>
                                     <a class="collapsed" data-bs-toggle="collapse" href="#collapse-B" aria-expanded="false" aria-controls="collapse-B">
@@ -287,7 +287,7 @@ require("layout/navbar.php");
                                                 <small>Special Offer</small>
                                                 <h3>Burgher Menu $14 only</h3>
                                                 <p>Hamburgher, Chips, Mix Sausages, Beer, Muffin</p>
-                                                <a href="menu-of-the-day.html" class="btn_1">View Menu</a>
+                                                <a href="menu-of-the-day2.php" class="btn_1">View Menu</a>
                                             </div>
                                             <figure class="d-none d-lg-block"><img src="img/restaurant/banner.svg" alt="" width="200" height="200" class="img-fluid"></figure>
                                         </div>
@@ -379,7 +379,7 @@ require("layout/navbar.php");
                             </div>
                         </div>
                         <!-- /tab -->
-                        <div id="pane-C" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-C">
+                        <div id="Promo-month" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-C">
                             <div class="card-header" role="tab" id="heading-C">
                                 <h5>
                                     <a class="collapsed" data-bs-toggle="collapse" href="#collapse-C" aria-expanded="false" aria-controls="collapse-C">
@@ -395,7 +395,7 @@ require("layout/navbar.php");
                                                 <small>Desserts Special Offer</small>
                                                 <h3>Mix Cakes $12 only</h3>
                                                 <p>Cheese cake, Muffin, Sweet bred</p>
-                                                <a href="menu-of-the-day.html" class="btn_1">View Menu</a>
+                                                <a href="menu-of-the-day2.php" class="btn_1">View Menu</a>
                                             </div>
                                             <figure class="d-none d-lg-block"><img src="img/restaurant/banner.svg" alt="" width="200" height="200" class="img-fluid"></figure>
                                         </div>
@@ -492,7 +492,7 @@ require("layout/navbar.php");
               </div>
               <!-- /tabs_menu-->
 
-                <p class="text-center mt-5"><a href="menu-of-the-day.html" class="btn_1 outline">View Day Menu</a></p>
+                <p class="text-center mt-5"><a href="menu-of-the-day2.php" class="btn_1 outline">View Day Menu</a></p>
             </div>
             <!-- /container -->
         </div>
