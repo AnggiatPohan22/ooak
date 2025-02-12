@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="description" content="">
     <meta name="author" content="Ansonika">
-    <title>One Of A Kind Resort Bintan - Menu's</title>
+    <title>One Of A Kind Resort Bintan - Nature & Uniq Concept Resort at Island Bintan</title>
     
     <!-- Favicons-->
     <link rel="shortcut icon" href="img/favicon-16x16.png" type="image/x-icon">
@@ -48,51 +48,37 @@
 
     <section class="menu-section">
         <div class="full-container">
-        <div class="intro p-3"><img src="img/logo_ooak.png" width="135" height="45" alt="" class="mb-3"><br><br>Azura Bistro Menu
-            <!--     <span>To Indulge yuorself at out sophisticated
-                and comfy villa, we bring you to the center of cuisine, Azura Bistro & Day Club, which can cater yout with the mixture of western
-                and Asian as well as Indonesian food that we offer.
-                <br>
-                <span> Located at Ground Floor behind the resort lobby, we shall serve you with our smile and sincered staff, with fresh air
-                    ambiance, which will take you to the unforgettable meal experience. Open from 7.00 a.m to 10.00 p.m for breakfast, continue
-                    to lunch, then sundown coffe tea service, and ended with chill dinner.
-                </span>
-                <br>
-                <span>
-                    We wait and always be ready
-                    to serve you
-                </span>
-            </span> --></div>
-            <div class="intro p-3"><img src="img/restaurant/azura.svg" width="150" height="80" alt="" class="mb-3"></div>
+            <div class="intro p-3"><img src="img/logo_ooak.png" width="300" height="100" alt="" class="mb-3"><br>
+            <span>"Our new menu is a journey, and each dish is a thrilling destination"</span></div>
         </div>
     </section> <!-- End  menu-section-->
 
     <section class="menu-section">
         <div class="full-container">
-            <div class="half-container":nth-of-type(2)>
-                <div class="first-of-type">
-                    
-                </div>
-            </div> 
+            <div class="half-container" style="background-image: url(img/daymenu/app.jpg)"></div>
 
             <div class="half-container">
-                <div class="txt_container-">
+                <div class="txt_container">
                     <div class="m_title">
                         <h2>Appetizer</h2>
-                        <p>Before love, there must be something that Started It</p>
+                        <p>Before love, there must be something that started it</p>
                     </div>
                     <ul>
                         <li>
-                            <h3>Marinated Shrimp</h3>
-                            <p>Fresh Shrimp, Oive Oil, Tomato Sauce</p>
+                            <h3>Caesar Salad</h3><em>IDR 65K</em>
+                            <p></p>
                         </li>
                          <li>
-                            <h3>Avocado & Mango</h3>
-                            <p>Avocado, Mango, Tomatoes</p>
+                            <h3>Chef Salad</h3><em>IDR 65K</em>
+                            <p></p>
                         </li>
                          <li>
-                            <h3>Cream of Asparagus</h3>
-                            <p>Asparagus, Ootato, Celery, Onion</p>
+                            <h3>Gado-gado Trikora</h3><em>IDR 78K</em>
+                            <p></p>
+                        </li>
+                        <li>
+                            <h3>Chicken Green Salad</h3><em>IDR 78K</em>
+                            <p></p>
                         </li>
                     </ul>
                 </div>
@@ -102,34 +88,38 @@
 
     <section class="menu-section">
         <div class="full-container">
-            <div class="half-container"></div>
+            <div class="half-container" style="background-image: url(img/daymenu/soup.jpg);"></div>
 
             <div class="half-container">
                 <div class="txt_container">
                     <div class="m_title">
-                        <h2>Main Dishes</h2>
-                        <p>A dish of your choice from the list below</p>
+                        <h2>This is Soup</h2>
+                        <p>This is no ordinary soup maybe you will find love in every taste</p>
                     </div>
                     <ul>
                         <li>
-                            <h3>Prime Rib</h3>
-                            <p>Rib, Rosemary, Black pepper</p>
+                            <h3>Pumpkin Soup</h3><em>IDR 68K</em>
+                            <p></p>
+                        </li>
+                         <li>
+                            <h3>Creamy Corn Soup</h3><em>IDR 68K</em>
+                            <p></p>
                         </li>
                         <li>
-                            <h3>Sriracha Beef</h3>
-                            <p>Avocado, Mango, Tomatoes</p>
+                            <h3>Soto Ayam Lamongan</h3><em>IDR 78K</em>
+                            <p></p>
                         </li>
                         <li>
-                            <h3>Soft shell crab</h3>
-                            <p>Chicken, Potato, Salad</p>
+                            <h3>Tomato Cream Soup</h3><em>IDR 78K</em>
+                            <p></p>
                         </li>
                         <li>
-                            <h3>Chicken with Garlic</h3>
-                            <p>Chicken, Cherry tomatoes, Olive oil</p>
+                            <h3>Oxtail Soup</h3><em>IDR 135K</em>
+                            <p></p>
                         </li>
                         <li>
-                            <h3>Turkey Chili</h3>
-                            <p>Turkey, Oregano, Tomato paste</p>
+                            <h3>Iga Soup</h3><em>IDR 145K</em>
+                            <p></p>
                         </li>
                     </ul>
                 </div>
@@ -139,25 +129,33 @@
 
    <section class="menu-section">
         <div class="full-container">
-            <div class="half-container"></div>
+            <div class="half-container" style="background-image: url(img/daymenu/prawn.jpg);"></div>
             <div class="half-container">
                 <div class="txt_container">
                     <div class="m_title">
-                        <h2>Desserts</h2>
-                        <p>A dish of your choice from the list below</p>
+                        <h2>LIghter Sides</h2>
+                        <p>Happiness is not a matter of intensity but of balance, order, rhythm and harmony</p>
                     </div>
                     <ul>
                         <li>
-                            <h3>Chocolate Cupcakes</h3>
-                            <p>Chocolate, Eggs, Vanilla</p>
+                            <h3>Black Pepper Prawn</h3><em>IDR 102K - Reguler <br> IDR 168K - Large</em>
+                            <p></p>
+                        </li>
+                         <li>
+                            <h3>Butter Sauce Prawn</h3><em>IDR 120K - Reguler <br> IDR 168K - Large</em>
+                            <p></p>
                         </li>
                         <li>
-                            <h3>Summer Berry</h3>
-                            <p>Raspberries, Blackberries</p>
+                            <h3>Chili Sauce Prawn</h3><em>IDR 132K - Reguler <br> IDR 178K - Large</em>
+                            <p></p>
                         </li>
                         <li>
-                            <h3>Coconut Tart</h3>
-                            <p>Blueberries, Graham cracker crumbs</p>
+                            <h3>Deep Fried Prawn</h3><em>IDR 132K - Reguler <br> IDR 178K - Large</em>
+                            <p></p>
+                        </li>
+                        <li>
+                            <h3>Salted Egg Prawn</h3><em>IDR 158K - Reguler <br> IDR 218K - Large</em>
+                            <p></p>
                         </li>
                     </ul>
                 </div>
@@ -167,25 +165,29 @@
     
     <section class="menu-section">
         <div class="full-container">
-            <div class="half-container"></div>
+            <div class="half-container" style="background-image: url(img/daymenu/beef.jpg);"></div>
             <div class="half-container">
                 <div class="txt_container">
                     <div class="m_title">
-                        <h2>Drinks</h2>
-                        <p>A dish of your choice from the list below</p>
+                        <h2>Beef Dishes</h2>
+                        <p>A symphony of flavors in every bite - our signature beef, cooked to perfection</p>
                     </div>
                     <ul>
-                        <li>
-                            <h3>Glass Red Wine</h3>
-                            <p>Montepulciano - Italy</p>
+                    <li>
+                            <h3>Beef Pepper Prawn</h3><em>IDR 102K - Reguler <br> IDR 142K - Large</em>
+                            <p></p>
+                        </li>
+                         <li>
+                            <h3>Beef Rendang</h3><em>IDR 102K - Reguler <br> IDR 142K - Large</em>
+                            <p></p>
                         </li>
                         <li>
-                            <h3>Glass White Wine</h3>
-                            <p>Verdejo - Spain</p>
+                            <h3>Beef Oyster Sauce</h3><em>IDR 108K - Reguler <br> IDR 152K - Large</em>
+                            <p></p>
                         </li>
                         <li>
-                            <h3>Bottle of Beer</h3>
-                            <p>Belgian Beer</p>
+                            <h3>Beef and Broccoli</h3><em>IDR 118K - Reguler <br> IDR 168K - Large</em>
+                            <p></p>
                         </li>
                     </ul>
                 </div>
@@ -195,13 +197,19 @@
     
     <section class="menu-section">
         <div class="full-container">
-            <div class="half-container"></div>
+            <div class="half-container" style="background-image: url(img/daymenu/azura.jpg);"></div>
 
             <div class="half-container">
                 <div class="txt_container">
                     <h3>Reserve a Table</h3>
-                    <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Maiores eos labore ratione illum excepturi neque sunt blanditiis ducimus soluta quae illum excepturi neque!</p>
-                    <p class="phone_us">Call Us <a href="tel://424342332">424 654831</a></p>
+                    <p>Enjoy our menu with cozy and garden view <br>
+                    for more menu's you can barcode or click this image.
+                    </p>
+                    <div> <img src="img/daymenu//oneofakindbintanresort.png" width="200" height="200" alt="">
+                    <p class="menu_title"><a href="https://oneofakindbintan.github.io/oneofakindbintanmenu/"> Menu's</a></p>
+                    </div>
+                    <br>
+                    <p class="phone_us">Dial Call <a href="tel://424342332">300</a></p>
                 </div>
             </div>
         </div>

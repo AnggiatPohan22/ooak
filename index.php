@@ -73,9 +73,9 @@ require("layout/navbar.php");
             <img class="jarallax-img kenburns" src="img/LDF_8719.jpg" alt="">
             <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
-                    <small class="slide-animated one">Luxury Resort Experience</small>
+                    <small class="slide-animated one">One of A Kind</small>
                     <h3 class="slide-animated two">A unique Experience<br>where to stay</h3>
-                    <small > Website Under Maintanance</small>
+                    <small > </small>
                    <div class="slide-animated three"><a class="btn_1 outline white mt-3" href="view_all_villa.php">Read more</a></div>
                 </div>
                 <div class="mouse_wp slide-animated four">
@@ -154,7 +154,7 @@ require("layout/navbar.php");
                     </div>
                     <div class="col-lg-5">
                         <div class="title">
-                            <small>Local Amenities</small>
+                            <small>Azura Bistro Resto & Oceanhouse</small>
                             <h3>Restaurants</h3>
                             <p>
                                 We have 2 restaurants, of which Azura Bistro Resto is located close to the garden
@@ -183,7 +183,7 @@ require("layout/navbar.php");
                     </div>
                     <div class="col-lg-5 order-lg-1">
                         <div class="title">
-                            <small>Local Amenities</small>
+                            <small>Merchandise</small>
                             <h3>Kind Store</h3>
                             <p>Kindstore showcases the beauty of Bintan Island with
                                 a curated collection of clothing, gifts and art
@@ -207,7 +207,7 @@ require("layout/navbar.php");
                     </div>
                     <div class="col-lg-5">
                         <div class="title">
-                            <small>Local Amenities</small>
+                            <small>infinity Pool</small>
                             <h3>Main Pool</h3>
                             <p>Our adults only infinity pool is
                                 the perfect place to enjoy the tropical sunshine

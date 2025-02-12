@@ -148,7 +148,7 @@ require("layout/navbar.php");
                             </a>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
-                            <a href="room-details-president.html" class="box_cat_rooms">
+                            <a href="room-details-president.php" class="box_cat_rooms">
                                 <figure>
                                     <div class="background-image" data-background="url(img/rooms/villa_president.jpg)"></div>
                                     <div class="info">

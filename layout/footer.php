@@ -55,7 +55,9 @@
         <!--/container-->
         <div class="copy">
             <div class="container">
-                Copyright © 2024 All Rights reserved <a href="https://oneofakindresortbintan.com/">One Of A Kind Resort</a>
+                © 2025  One of A Kind Resort Bintan
+                <br>
+                <a href="https://anggiatpohan22.github.io/myportofolio/">AP Developer</a>
             </div>
         </div>
     </footer>

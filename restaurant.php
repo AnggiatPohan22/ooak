@@ -18,7 +18,7 @@ require("layout/navbar.php");
         <div id="carousel-home">
             <div class="owl-carousel owl-theme kenburns">
                 <div class="owl-slide background-image cover" data-background="url(img/restaurant/slides/slide_2resto.jpg)">
-                    <div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.5)">
+                    <div class="opacity-mask d-flex align-items-center" >
                         <div class="container">
                             <div class="row justify-content-center justify-content-md-start">
                                 <div class="col-lg-6 static">
@@ -34,7 +34,8 @@ require("layout/navbar.php");
                 </div>
                 <!--/owl-slide-->
                 <div class="owl-slide background-image cover" data-background="url(img/restaurant/slides/slide_1resto.jpg)">
-                    <div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.5)">
+                    <div class="opacity-mask d-flex align-items-center" >
+                    <!-- <div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.5)">  -->
                         <div class="container">
                             <div class="row justify-content-center">
                                 <div class="col-lg-6 static">
@@ -50,7 +51,7 @@ require("layout/navbar.php");
                 </div>
                 <!--/owl-slide-->
                 <div class="owl-slide background-image cover" data-background="url(img/restaurant/slides/slide_3resto.jpg)">
-                    <div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.6)">
+                    <div class="opacity-mask d-flex align-items-center" >
                         <div class="container">
                             <div class="row justify-content-center justify-content-md-end">
                                 <div class="col-lg-6 static">
@@ -83,9 +84,18 @@ require("layout/navbar.php");
                           <small>Azura Bistro Resto</small>
                           <h2>Asian & Western Food</h2>
                       </div>
-                      <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab.</p>
-                      <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </p>
-                      <p><em>Enjoy...the Chef</em></p>
+                      <p class="lead"> 
+                      To indulge yourself in our sophisticated and comfortable villa, 
+                      we invite you to Azura Bistro & Day Club, the center of cuisine that caters to you with a 
+                      mix of Western, Asian, and Indonesian food. 
+                      </p>
+                      <p>
+                      Located on the ground floor behind the resort lobby,
+                       we will serve you with our smile and sincere staff in a fresh air ambiance, 
+                       providing an unforgettable dining experience. We are open from 7:00 a.m. to 10:00 p.m. 
+                       for breakfast, lunch, sunset coffee and tea service, and a relaxing dinner. 
+                       </p>
+                      <p><em>We are waiting and always ready to serve you</em></p>
                   </div>
               </div>
             <div class="col-lg-5">
@@ -101,7 +111,7 @@ require("layout/navbar.php");
                             <strong>Dinner</strong>  <span>open from 7.30pm<br><small>(kitchen close at 11.30pm)</small></span>
                         </li>
                     </ul>
-                    <p class="phone_element"><a href="tel://423424234"><i class="bi bi-telephone"></i><span><em>Reservations</em>+62 823 1309 9999</span></a></p>
+                    <p class="phone_element"><a href="#"><i class="bi bi-telephone"></i><span><em>Reservations</em>Dial Call 300</span></a></p>
                 </div>
               </div>
           </div>
@@ -124,7 +134,7 @@ require("layout/navbar.php");
                             <strong>Dinner</strong>  <span>open from 7.30pm<br><small>(kitchen close at 11.30pm)</small></span>
                         </li>  -->
                     </ul>
-                    <p class="phone_element"><a href="tel://423424234"><i class="bi bi-telephone"></i><span><em>Reservations</em>+62 823 1309 9999</span></a></p>
+                    <p class="phone_element"><a href="#"><i class="bi bi-telephone"></i><span><em>Reservations</em>Dial Call 300</span></a></p>
                 </div>
               </div>
             <div class="col-lg-5">
@@ -133,9 +143,17 @@ require("layout/navbar.php");
                         <small>Oceanhouse Resto</small>
                         <h2>Sea Food & Chinese Food</h2>
                     </div>
-                    <p class="lead">Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab.</p>
-                    <p>Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. </p>
-                    <p><em>Enjoy...the Chef</em></p>
+                    <p class="lead">
+                    To indulge yourself in our sophisticated and comfortable resort villa, 
+                    we invite you to Ocean House Seafood Resto, the center of cuisine that caters to you 
+                    with a mix of Asian-style dishes, especially seafood dishes using our local specialty ingredients
+                    </p>
+                    <p>
+                    Located just beside our sea-view villa, we will serve you with our smiles and sincere staff in a fresh air ambiance,
+                    providing an unforgettable dining experience.
+                    We open at 12.00 PM for lunch, continue with a cozy sundown dinner, and end with a chill bar until midnight. 
+                    </p>
+                    <p><em>We are waiting and always ready to serve you</em></p>
                 </div>
             </div>
         </div>
@@ -157,9 +175,9 @@ require("layout/navbar.php");
                         <li class="nav-item">
                             <a id="tab-B" href="#Oceanhouse" class="nav-link" data-bs-toggle="tab" role="tab">Oceanhouse</a>
                         </li>
-                         <li class="nav-item">
+                       <!--  <li class="nav-item">
                             <a id="tab-C" href="#Promo-month" class="nav-link" data-bs-toggle="tab" role="tab">Promo of The Month</a>
-                        </li>
+                        </li> -->
                     </ul>
                     <div class="tab-content add_bottom_25" role="tablist">
                         <div id="Azura-Bistro" class="card tab-pane fade show active" role="tabpanel" aria-labelledby="tab-A">
@@ -172,12 +190,12 @@ require("layout/navbar.php");
                             </div>
                             <div id="collapse-A" class="collapse" role="tabpanel" aria-labelledby="heading-A">
                                 <div class="card-body">
-                                    <div class="banner background-image" data-background="url(img/restaurant/banner_bg_western.jpg)">
-                                        <div class="wrapper d-flex align-items-center justify-content-between opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.6)">
+                                    <div class="banner background-image" data-background="url(img/restaurant/banner_azura2.webp)">
+                                        <div class="wrapper d-flex align-items-center justify-content-between opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.3)">
                                             <div>
-                                               <small>Starters Special Offer</small>
-                                                <h3>Mix Starters Menu $18 only</h3>
-                                                <p>Hamburgher, Chips, Mix Sausages, Beer, Muffin</p>
+                                               <small>Start with Best Seller Menu's</small>
+                                                <h3>Asian & Western Choice</h3>
+                                                <p></p>
                                                 <a href="menu-of-the-day2.php" class="btn_1">View Menu</a>
                                             </div>
                                             <figure class="d-none d-lg-block"><img src="img/restaurant/azura.svg" alt="" width="200" height="200" class="img-fluid"></figure>
@@ -189,79 +207,79 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/1.jpg" title="Soft shell crab" data-fslightbox="gallery_1" data-type="image">
-                                                        <img src="img/restaurant/1.jpg" alt="">
+                                                    <a href="img/restaurant/large/azura_1.jpg" title="Caesar Salad" data-fslightbox="gallery_1" data-type="image">
+                                                        <img src="img/restaurant/azura_ico_1.jpg" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
-                                                    <h3>Soft shell crab</h3><em>$14</em>
+                                                    <h3>Caesar Salad</h3><em>IDR 65K</em>
                                                 </div>
-                                                <p>Chicken, Potato, Salad</p>
+                                                <p>Romaine Lettuce With Caesar Dressing, Crouttons & Shredded parmesan.</p>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/2.jpg" title="Marinated Grilled" data-fslightbox="gallery_1" data-type="image">
-                                                        <img src="img/restaurant/2.jpg" alt="">
+                                                    <a href="img/restaurant/large/azura_2.jpg" title="Iga Soup" data-fslightbox="gallery_1" data-type="image">
+                                                        <img src="img/restaurant/azura_ico_2.jpg" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
-                                                    <h3>Marinated Grilled Shrimp</h3><em>$11</em>
+                                                    <h3>Iga Soup </h3><em>IDR 145K</em>
                                                 </div>
-                                                <p>Fresh Shrimp, Oive Oil, Tomato Sauce</p>
+                                                <p>Beef Ribs, Potato and Carrot cooked in Traditional Locl Clear Soup with aromatic Herbs served with Streamed Rice</p>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/3.jpg" title="Avocado & Mango Salsa" data-fslightbox="gallery_1" data-type="image">
-                                                        <img src="img/restaurant/3.jpg" alt="">
+                                                    <a href="img/restaurant/large/azura_3.jpg" title="Batagor" data-fslightbox="gallery_1" data-type="image">
+                                                        <img src="img/restaurant/azura_ico_3.jpg" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
-                                                    <h3>Avocado & Mango Salsa</h3><em>$16</em>
+                                                    <h3>Batagor</h3><em>IDR 45K</em>
                                                 </div>
-                                                <p>Avocado, Mango, Tomatoes</p>
+                                                <p>Fried Fish Dumplings, Fried Tofu, Boiled Egg served with peanut sauce and pickle Vegetables.</p>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/4.jpg" title="Baked Potato Skins" data-fslightbox="gallery_1" data-type="image">
-                                                        <img src="img/restaurant/4.jpg" alt="">
+                                                    <a href="img/restaurant/large/azura_4.jpg" title="Lamb Fried Rice" data-fslightbox="gallery_1" data-type="image">
+                                                        <img src="img/restaurant/azura_ico_4.jpg" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
-                                                    <h3>Baked Potato Skins</h3><em>$10</em>
+                                                    <h3>Lamb Fried Rice</h3><em>IDR 99K</em>
                                                 </div>
-                                                <p>Potatoes, Oil, Garlic</p>
+                                                <p>Lamb Fried Rice, Lamb Satay, Peanut sauce served with pickle Vegetables.</p>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/5.jpg" title="Braised Pork Chops" data-fslightbox="gallery_1" data-type="image">
-                                                        <img src="img/restaurant/5.jpg" alt="">
+                                                    <a href="img/restaurant/large/azura_5.jpg" title="Sirloin Steak 200gr" data-fslightbox="gallery_1" data-type="image">
+                                                        <img src="img/restaurant/azura_ico_5.jpg" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
-                                                    <h3>Braised Pork Chops</h3><em>$12</em>
+                                                    <h3>Sirloin Steak 200gr</h3><em>IDR 388K</em>
                                                 </div>
-                                                <p>Pork chops, Olive oil, Garlic</p>
+                                                <p>Grilled Sirloin with Choice of sauce served with sauteed Vegetables and French Fries</p>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/6.jpg" title="Cream of Asparagus" data-fslightbox="gallery_1" data-type="image">
-                                                        <img src="img/restaurant/6.jpg" alt="">
+                                                    <a href="img/restaurant/large/azura_6.jpg" title="Beef Carbonara" data-fslightbox="gallery_1" data-type="image">
+                                                        <img src="img/restaurant/azura_ico_6.jpg" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
-                                                    <h3>Cream of Asparagus</h3><em>$14</em>
+                                                    <h3>Beef Carbonara</h3><em>IDR 96K</em>
                                                 </div>
-                                                <p>Asparagus, Ootato, Celery, Onion</p>
+                                                <p>Smoked Beef Ham, Cream, Egg Yolk, parmesan cheese served with garlic stick.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -281,15 +299,15 @@ require("layout/navbar.php");
                             </div>
                             <div id="collapse-B" class="collapse" role="tabpanel" aria-labelledby="heading-B">
                                 <div class="card-body">
-                                    <div class="banner background-image" data-background="url(img/restaurant/banner_bg.jpg)">
-                                        <div class="wrapper d-flex align-items-center justify-content-between opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.5)">
+                                    <div class="banner background-image" data-background="url(img/restaurant/banner_ocean.webp)">
+                                        <div class="wrapper d-flex align-items-center justify-content-between opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.2)">
                                             <div>
-                                                <small>Special Offer</small>
-                                                <h3>Burgher Menu $14 only</h3>
-                                                <p>Hamburgher, Chips, Mix Sausages, Beer, Muffin</p>
+                                                <small>Recommended Menu's</small>
+                                                <h3>Sea Food & Chinese Food</h3>
+                                                <p></p>
                                                 <a href="menu-of-the-day2.php" class="btn_1">View Menu</a>
                                             </div>
-                                            <figure class="d-none d-lg-block"><img src="img/restaurant/banner.svg" alt="" width="200" height="200" class="img-fluid"></figure>
+                                            <figure class="d-none d-lg-block"><img src="img/restaurant/ocean.webp" alt="" width="200" height="200" class="img-fluid"></figure>
                                         </div>
                                         <!-- /wrapper -->
                                     </div>
@@ -298,79 +316,79 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/7.jpg" title="Prime Rib" data-fslightbox="gallery_2" data-type="image">
-                                                        <img src="img/restaurant/7.jpg" alt="">
+                                                    <a href="img/restaurant/large/ocean_1.jpg" title="Chicken Wanton Noodle Soup" data-fslightbox="gallery_2" data-type="image">
+                                                        <img src="img/restaurant/ocean_ico_1.jpg" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
-                                                    <h3>Prime Rib</h3><em>$18</em>
+                                                    <h3>Chicken Wanton Noodle Soup</h3><em>IDR 65K - Reguler <br> IDR 88K - Large</em>
                                                 </div>
-                                                <p>Rib, Rosemary, Black pepper</p>
+                                                <p>Chicken Dumpling, Noodle & Vegetable cooked in a chicken soup base served with pickle green Chili</p>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/8.jpg" title="Coconut Fried Chicken" data-fslightbox="gallery_2" data-type="image">
-                                                        <img src="img/restaurant/8.jpg" alt="">
+                                                    <a href="img/restaurant/large/ocean_2.jpg" title="Chicken Cantonese" data-fslightbox="gallery_2" data-type="image">
+                                                        <img src="img/restaurant/ocean_ico_2.jpg" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
-                                                    <h3>Coconut Fried Chicken</h3><em>$14</em>
+                                                    <h3>Chicken Cantonese</h3><em>IDR 150K - 1/2 Portion <br> IDR 288K - 1 Portion</em>
                                                 </div>
-                                                <p>8 chicken pieces, Coconut milk</p>
+                                                <p>Chicken style chicken marinated oyster sauce, soy sauce, rice vineger, garlic dan onion.</p>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/9.jpg" title="Sriracha Beef Skewers" data-fslightbox="gallery_2" data-type="image">
-                                                        <img src="img/restaurant/9.jpg" alt="">
+                                                    <a href="img/restaurant/large/ocean_3.jpg" title="Beef Rendang" data-fslightbox="gallery_2" data-type="image">
+                                                        <img src="img/restaurant/ocean_ico_3.jpg" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
-                                                    <h3>Sriracha Beef Skewers</h3><em>$12</em>
+                                                    <h3>Beef Rendang</h3><em>IDR 102K - Reguler <br> IDR 142K - Large</em>
                                                 </div>
-                                                <p>Beef, Garlic, Sesame oil</p>
+                                                <p>Braised Beff slow cooked in a coconut milk and spice mustard.</p>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/10.jpg" title="Chicken with Garlic" data-fslightbox="gallery_2" data-type="image">
-                                                        <img src="img/restaurant/10.jpg" alt="">
+                                                    <a href="img/restaurant/large/ocean_4.jpg" title="Salted Egg Squid" data-fslightbox="gallery_2" data-type="image">
+                                                        <img src="img/restaurant/ocean_ico_4.jpg" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
-                                                    <h3>Chicken with Garlic</h3><em>$10</em>
+                                                    <h3>Salted Egg Squid</h3><em>IDR 108K - Reguler <br> IDR 148K - Large</em>
                                                 </div>
-                                                <p>Chicken, Cherry tomatoes, Olive oil</p>
+                                                <p>Deep fried squid coated in onion chili and salted egg sauce.</p>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/menu_items/large/11.jpg" title="Soft shell crab" data-fslightbox="gallery_2" data-type="image">
-                                                        <img src="img/restaurant/11.jpg" alt="">
+                                                    <a href="img/menu_items/large/ocean_5.jpg" title="Salted Egg Squid" data-fslightbox="gallery_2" data-type="image">
+                                                        <img src="img/restaurant/ocean_ico_5.jpg" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
-                                                    <h3>Soft shell crab</h3><em>$14</em>
+                                                    <h3>Salted Egg Prawn</h3><em>IDR 158K - Reguler <br> IDR 218K - Large</em>
                                                 </div>
-                                                <p>Chicken, Potato, Salad</p>
+                                                <p>Deep fried prawn cooked with salted egg, onion, red chili & butter sauce.</p>
                                             </div>
                                         </div>
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/1.jpg" title="Terrific Turkey Chili" data-fslightbox="gallery_2" data-type="image">
-                                                        <img src="img/restaurant/1.jpg" class="lazy" alt="">
+                                                    <a href="img/restaurant/large/ocean_6.jpg" title="Nasi Goreng Ikan Asin" data-fslightbox="gallery_2" data-type="image">
+                                                        <img src="img/restaurant/ocean_ico_6.jpg" class="lazy" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
-                                                    <h3>Terrific Turkey Chili</h3><em>$18</em>
+                                                    <h3>Nasi Goreng Ikan Asin</h3><em>IDR 48K - Reguler <br> IDR 68K - Large</em>
                                                 </div>
-                                                <p>Turkey, Oregano, Tomato paste</p>
+                                                <p>Fried rice,salted fish,red chili and seasoning served with pickles & crackers.</p>
                                             </div>
                                         </div>
                                     </div>
@@ -378,115 +396,7 @@ require("layout/navbar.php");
                                 </div>
                             </div>
                         </div>
-                        <!-- /tab -->
-                        <div id="Promo-month" class="card tab-pane fade" role="tabpanel" aria-labelledby="tab-C">
-                            <div class="card-header" role="tab" id="heading-C">
-                                <h5>
-                                    <a class="collapsed" data-bs-toggle="collapse" href="#collapse-C" aria-expanded="false" aria-controls="collapse-C">
-                                        Desserts and Drinks
-                                    </a>
-                                </h5>
-                            </div>
-                            <div id="collapse-C" class="collapse" role="tabpanel" aria-labelledby="heading-C">
-                                <div class="card-body">
-                                    <div class="banner background-image" data-background="url(img/restaurant/banner_bg_3.jpg)">
-                                        <div class="wrapper d-flex align-items-center justify-content-between opacity-mask" data-opacity-mask="rgba(0, 0, 0, 0.5)">
-                                            <div>
-                                                <small>Desserts Special Offer</small>
-                                                <h3>Mix Cakes $12 only</h3>
-                                                <p>Cheese cake, Muffin, Sweet bred</p>
-                                                <a href="menu-of-the-day2.php" class="btn_1">View Menu</a>
-                                            </div>
-                                            <figure class="d-none d-lg-block"><img src="img/restaurant/banner.svg" alt="" width="200" height="200" class="img-fluid"></figure>
-                                        </div>
-                                        <!-- /wrapper -->
-                                    </div>
-                                    <!-- /banner -->
-                                    <div class="row magnific-gallery add_top_30">
-                                        <div class="col-lg-6">
-                                            <div class="menu_item">
-                                                <figure>
-                                                    <a href="img/restaurant/large/3.jpg" title="Summer Berry" data-fslightbox="gallery_3" data-type="image">
-                                                        <img src="img/restaurant/3.jpg" alt="">
-                                                    </a>
-                                                </figure>
-                                                <div class="menu_title">
-                                                    <h3>Summer Berry</h3><em>$8</em>
-                                                </div>
-                                                <p>Raspberries, Blackberries</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="menu_item">
-                                                <figure>
-                                                    <a href="img/restaurant/large/4.jpg" title="Coconut Tart" data-fslightbox="gallery_3" data-type="image">
-                                                        <img src="img/restaurant/4.jpg" alt="">
-                                                    </a>
-                                                </figure>
-                                                <div class="menu_title">
-                                                    <h3>Coconut Tart</h3><em>$10</em>
-                                                </div>
-                                                <p>Blueberries, Graham cracker crumbs</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="menu_item">
-                                                <figure>
-                                                    <a href="img/restaurant/large/5.jpg" title="Pumpkin Cookies" data-fslightbox="gallery_3" data-type="image">
-                                                        <img src="img/restaurant/5.jpg" alt="">
-                                                    </a>
-                                                </figure>
-                                                <div class="menu_title">
-                                                    <h3>Pumpkin Cookies</h3><em>$11</em>
-                                                </div>
-                                                <p>Pumpkin, Sugar, Butter</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="menu_item">
-                                                <figure>
-                                                    <a href="img/restaurant/large/6.jpg" title="Cookies Cream Cheese" data-fslightbox="gallery_3" data-type="image">
-                                                        <img src="img/restaurant/6.jpg" alt="">
-                                                    </a>
-                                                </figure>
-                                                <div class="menu_title">
-                                                    <h3>Cookies Cream Cheese</h3><em>$14</em>
-                                                </div>
-                                                <p>Sugar, Butter, Eggs</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="menu_item">
-                                                <figure>
-                                                    <a href="img/restaurant/large/8.jpg" title="Chocolate Cupcakes" data-fslightbox="gallery_3" data-type="image">
-                                                        <img src="img/restaurant/8.jpg" alt="">
-                                                    </a>
-                                                </figure>
-                                                <div class="menu_title">
-                                                    <h3>Chocolate Cupcakes</h3><em>$14</em>
-                                                </div>
-                                                <p>Chocolate, Eggs, Vanilla</p>
-                                            </div>
-                                        </div>
-                                        <div class="col-lg-6">
-                                            <div class="menu_item">
-                                                <figure>
-                                                    <a href="img/restaurant/large/9.jpg" title="Chocolate Cupcakes" data-fslightbox="gallery_3" data-type="image">
-                                                        <img src="img/restaurant/9.jpg" alt="">
-                                                    </a>
-                                                </figure>
-                                                <div class="menu_title">
-                                                    <h3>Chocolate Cupcakes</h3><em>$14</em>
-                                                </div>
-                                                <p>Chocolate, Eggs, Vanilla</p>
-                                            </div>
-                                        </div>
-                                    </div>
-                                    <!-- /row -->
-                                </div>
-                            </div>
-                        </div>
-                        <!-- /tab -->
+                        
                     </div>
                     <!-- /tab-content -->
               </div>
@@ -500,67 +410,10 @@ require("layout/navbar.php");
 
     </main>
 
-    <footer class="revealed">
-        <div class="footer_bg">
-            <div class="gradient_over"></div>
-            <div class="background-image" data-background="url(img/rooms/footer_bg.jpg)"></div>
-        </div>
-        <div class="container">
-            <div class="row move_content">
-                <div class="col-lg-4 col-md-12">
-                    <h5>Contacts</h5>
-                    <ul>
-                        <li>Jl.Trikora 3 Malang Rapat<br>Bintan - Kepri<br><br></li>
-                        <li><strong><a href="#0">info@Oneofakindbintan.com</a></strong></li>
-                        <li><strong><a href="#0">+62 823 1309 9999</a></strong></li>
-                    </ul>
-                    <div class="social">
-                        <ul>
-                            <li><a href="#0"><i class="bi bi-instagram"></i></a></li>
-                            <li><a href="#0"><i class="bi bi-youtube"></i></a></li>
-                            <li><a href="#0"><i class="bi bi-facebook"></i></a></li>
-                            <li><a href="#0"><i class="bi bi-twitter-x"></i></a></li>
-                            <li><a href="#0"><i class="bi bi-tiktok"></i></a></li>
-                        </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6 ms-lg-auto">
-                    <h5>Explore</h5>
-                    <div class="footer_links">
-                        <ul>
-                            <li><a href="index.html">Home</a></li>
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="room-list-1.html">Our Villa</a></li>
-                            <li><a href="news-1.html">Services &amp; Facilities</a></li>
-                            <li><a href="news-1.html">Promo &amp; Packages</a></li>
-                            <li><a href="about.html">Gallery</a></li>
-                            <li><a href="contacts.html">Contacts / Book Now</a></li>
-                            </ul>
-                    </div>
-                </div>
-                <div class="col-lg-3 col-md-6">
-                    <div id="newsletter">
-                        <h5>Newsletter</h5>
-                        <div id="message-newsletter"></div>
-                        <form method="post" action="phpmailer/newsletter_template_email.php" name="newsletter_form" id="newsletter_form">
-                            <div class="form-group">
-                                <input type="email" name="email_newsletter" id="email_newsletter" class="form-control" placeholder="Your email">
-                                <button type="submit" id="submit-newsletter"><i class="bi bi-send"></i></button>
-                            </div>
-                        </form>
-                        <p>Receive latest offers and promos without spam. You can cancel anytime.</p>
-                    </div>
-                </div>
-            </div>
-            <!--/row-->
-        </div>
-        <!--/container-->
-        <div class="copy">
-            <div class="container">
-                © One Of A Kind Resort - by <a href="#">AP-Developer</a>
-            </div>
-        </div>
-    </footer>
+    <!-- /footer -->
+    <?php
+        require("layout/footer.php")
+        ?>
     <!-- /footer -->
 
     <div class="progress-wrap">
