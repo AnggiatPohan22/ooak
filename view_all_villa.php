@@ -64,7 +64,8 @@ require("layout/navbar.php");
                     </div>
                     <div class="col-xl-4">
                         <div class="box_item_info" data-jarallax-element="-25">
-                            <small>From IDR.3.000.000/night</small>
+                            <em> Start </em>
+                            <small>From IDR.1.700.000/night</small>
                             <h2>Villa Isla</h2>
                             <p>Villa Isla have 2 Floors, First Floor for Second Rooms or Hangout with Private Pool and outside Bathroom, other side
                                 on the Second Floor for main Rooms with balcony and inside Bathroom at this floor you can sea the others villa Isla and garden beside.
@@ -121,7 +122,8 @@ require("layout/navbar.php");
                     </div>
                     <div class="col-xl-4 order-xl-1">
                         <div class="box_item_info" data-jarallax-element="-25">
-                            <small>From IDR.5.000.000/night</small>
+                            <em> Start </em>
+                            <small>From IDR.2.000.000/night</small>
                             <h2>Villa Aqua Executive</h2>
                             <p>Beautiful design with modern furnishings including a glamorous bay window with your own private view of Lucerne.</p>
                             <div class="facilities clearfix">
@@ -173,7 +175,8 @@ require("layout/navbar.php");
                     </div>
                     <div class="col-xl-4">
                         <div class="box_item_info" data-jarallax-element="-25">
-                            <small>From IDR.7.000.000/night</small>
+                            <em> Start </em>
+                            <small>From IDR.3.000.000/night</small>
                             <h2>Villa Aqua Junior</h2>
                             <p>Beautiful design with modern furnishings including a glamorous bay window with your own private view of Lucerne.</p>
                             <div class="facilities clearfix">
@@ -225,7 +228,8 @@ require("layout/navbar.php");
                     </div>
                     <div class="col-xl-4 order-xl-1">
                         <div class="box_item_info" data-jarallax-element="-25">
-                            <small>From IDR.10.000.000/night</small>
+                            <em> Start </em>
+                            <small>From IDR.5.600.000/night</small>
                             <h2>Villa Aqua President</h2>
                             <p>Beautiful design with modern furnishings including a glamorous bay window with your own private view of Lucerne.</p>
                             <div class="facilities clearfix">

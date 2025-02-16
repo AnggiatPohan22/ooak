@@ -128,7 +128,8 @@ require("layout/navbar.php");
                                 <figure>
                                     <div class="background-image" data-background="url(img/rooms/villa_isla.jpg)"></div>
                                     <div class="info">
-                                        <small>From IDR.3.000.000/night</small>
+                                    <em> Start </em>
+                                        <small>From IDR.1.700.000/night</small>
                                         <h3>Villa Isla    </h3>
                                         <span>Read more</span>
                                     </div>
@@ -140,7 +141,8 @@ require("layout/navbar.php");
                                 <figure>
                                     <div class="background-image" data-background="url(img/rooms/villa_execu.jpg)"></div>
                                     <div class="info">
-                                        <small>From IDR.5.000.000/night</small>
+                                    <em> Start </em>
+                                        <small>From IDR.2.000.000/night</small>
                                         <h3>Villa Aqua Executive</h3>
                                         <span>Read more</span>
                                     </div>
@@ -152,7 +154,8 @@ require("layout/navbar.php");
                                 <figure>
                                     <div class="background-image" data-background="url(img/rooms/villa_president.jpg)"></div>
                                     <div class="info">
-                                        <small>From IDR.10.000.000/night</small>
+                                    <em> Start </em>
+                                        <small>From IDR.5.600.000/night</small>
                                         <h3>Villa Aqua President</h3>
                                         <span>Read more</span>
                                     </div>

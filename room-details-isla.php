@@ -264,7 +264,8 @@ require("layout/navbar.php");
                                 <figure>
                                     <div class="background-image" data-background="url(img/rooms/villa_execu.jpg)"></div>
                                     <div class="info">
-                                        <small>From IDR.5.000.000/night</small>
+                                    <em> Start </em>
+                                        <small>From IDR.2.000.000/night</small>
                                         <h3>Villa Aqua Executive    </h3>
                                       <!--  <span href="room-details-execu.html">Read more</span>  -->
                                       <span href="room-details-execu.html">Read More</span>
@@ -277,7 +278,8 @@ require("layout/navbar.php");
                                 <figure>
                                     <div class="background-image" data-background="url(img/rooms/villa_junior.jpg)"></div>
                                     <div class="info">
-                                        <small>From IDR.7.000.000/night</small>
+                                    <em> Start </em>
+                                        <small>From IDR.3.000.000/night</small>
                                         <h3>Villa Aqua Junior</h3>
                                         <span href="room-details-junior.html">Read more</span>
                                     </div>
@@ -289,7 +291,8 @@ require("layout/navbar.php");
                                 <figure>
                                     <div class="background-image" data-background="url(img/rooms/villa_president.jpg)"></div>
                                     <div class="info">
-                                        <small>From IDR.10.000.000/night</small>
+                                    <em> Start </em>
+                                        <small>From IDR.5.600.000/night</small>
                                         <h3>Villa Aqua President</h3>
                                         <span href="room-details-president.html">Read more</span>
                                     </div>

@@ -27,12 +27,12 @@
                     <div class="footer_links">
                         <ul>
                             <li><a href="index.html">Home</a></li>
-                            <li><a href="about.html">About Us</a></li>
-                            <li><a href="room-list-1.html">Our Villa</a></li>
-                            <li><a href="news-1.html">Services &amp; Facilities</a></li>
-                            <li><a href="news-1.html">Promo &amp; Packages</a></li>
-                            <li><a href="about.html">Gallery</a></li>
-                            <li><a href="contacts.html">Contacts / Book Now</a></li>
+                            <li><a href="#">About Us</a></li>
+                            <li><a href="view_all_villa.php">Our Villa</a></li>
+                            <li><a href="#">Services &amp; Facilities</a></li>
+                            <li><a href="#">Promo &amp; Packages</a></li>
+                            <li><a href="#">Gallery</a></li>
+                            <li><a href="#">Contacts / Book Now</a></li>
                             </ul>
                     </div>
                 </div>
