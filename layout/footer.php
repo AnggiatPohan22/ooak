@@ -26,7 +26,7 @@
                     <h3>Explore</h3>
                     <div class="footer_links">
                         <ul>
-                            <li><a href="index.html">Home</a></li>
+                            <li><a href="index.php">Home</a></li>
                             <li><a href="#">About Us</a></li>
                             <li><a href="view_all_villa.php">Our Villa</a></li>
                             <li><a href="#">Services &amp; Facilities</a></li>
