@@ -7,7 +7,7 @@
                 <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                     <a href="room-details-isla.php" class="box_cat_rooms">
                         <figure>
-                            <div class="background-image" data-background="url(img/rooms/villa_isla.jpg)"></div>
+                            <div class="background-image" data-background="url(img/rooms/villa_isla.webp)"></div>
                             <div class="info">
                             <em> Start </em>
                                 <small>From IDR.1.700.000/night</small>
@@ -20,7 +20,7 @@
                 <div class="col-xl-3 col-lg-3 col-md-6 col-sm-6">
                     <a href="room-details-execu.php" class="box_cat_rooms">
                         <figure>
-                            <div class="background-image" data-background="url(img/rooms/villa_execu.jpg)"></div>
+                            <div class="background-image" data-background="url(img/rooms/villa_execu.webp)"></div>
                             <div class="info">
                             <em> Start </em>
                                 <small>From IDR.2.000.000/night</small>
@@ -33,7 +33,7 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
                     <a href="room-details-junior.php" class="box_cat_rooms">
                         <figure>
-                            <div class="background-image" data-background="url(img/rooms/villa_junior.jpg)"></div>
+                            <div class="background-image" data-background="url(img/rooms/villa_junior.webp)"></div>
                             <div class="info">
                             <em> Start </em>
                                 <small>From IDR.3.000.000/night</small>
@@ -46,7 +46,7 @@
                 <div class="col-xl-3 col-lg-6 col-md-6 col-sm-6">
                     <a href="room-details-president.php" class="box_cat_rooms">
                         <figure>
-                            <div class="background-image" data-background="url(img/rooms/villa_president.jpg)"></div>
+                            <div class="background-image" data-background="url(img/rooms/villa_president.webp)"></div>
                             <div class="info">
                             <em> Start </em>
                                 <small>From IDR.5.600.000/night</small>

@@ -15,7 +15,7 @@ require("layout/navbar.php");
  <main>
         <!-- Type Villa -->
         <div class="hero full-height jarallax" data-jarallax data-speed="0.2">
-            <img class="jarallax-img kenburns" src="img/rooms/detail_isla.jpg" alt="">
+            <img class="jarallax-img kenburns" src="img/rooms/detail_isla.webp" alt="">
             <div class="wrapper opacity-mask d-flex align-items-center  text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
                     <div class="row justify-content-center">
@@ -84,44 +84,44 @@ require("layout/navbar.php");
                 <div data-cues="zoomIn">
                     <div class="owl-carousel owl-theme carousel_item_centered kenburns rounded-img">
                         <div class="item">
-                            <img src="img/rooms/isla_2.jpg" alt="">
+                            <img src="img/rooms/isla_2.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_isla_1.jpg" alt="">
+                            <img src="img/rooms/detail_isla_1.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_isla_5.jpg" alt="">
+                            <img src="img/rooms/detail_isla_5.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_isla_2.jpg" alt="">
+                            <img src="img/rooms/detail_isla_2.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_isla_4.jpg" alt="">
+                            <img src="img/rooms/detail_isla_4.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/isla_3.jpg" alt="">
+                            <img src="img/rooms/isla_3.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_isla_3.jpg" alt="">
+                            <img src="img/rooms/detail_isla_3.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_isla_6.jpg" alt="">
+                            <img src="img/rooms/detail_isla_6.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_isla_7.jpg" alt="">
+                            <img src="img/rooms/detail_isla_7.webp" alt="">
                         </div>
                     </div>
                 </div>
                 <div class="text-center mt-5">
-                    <a class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" href="img/rooms/isla_2.jpg">FullScreen Gallery</a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_1.jpg"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_5.jpg"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_2.jpg"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_4.jpg"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/isla_3.jpg"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_3.jpg"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_6.jpg"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_7.jpg"></a>
+                    <a class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" href="img/rooms/isla_2.webp">FullScreen Gallery</a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_1.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_5.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_2.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_4.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/isla_3.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_3.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_6.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_isla_7.webp"></a>
                 </div>
             </div>
         </div>
@@ -181,7 +181,7 @@ require("layout/navbar.php");
                     <div class="review_card">
                         <div class="row">
                             <div class="col-md-2 user_info">
-                                <figure><img src="img/avatar4.jpg" alt=""></figure>
+                                <figure><img src="img/avatar4.webp" alt=""></figure>
                                 <h5>Lukas</h5>
                             </div>
                             <div class="col-md-10 review_content">
@@ -199,7 +199,7 @@ require("layout/navbar.php");
                     <div class="review_card">
                         <div class="row">
                             <div class="col-md-2 user_info">
-                                <figure><img src="img/avatar6.jpg" alt=""></figure>
+                                <figure><img src="img/avatar6.webp" alt=""></figure>
                                 <h5>Lukas</h5>
                             </div>
                             <div class="col-md-10 review_content">
@@ -217,7 +217,7 @@ require("layout/navbar.php");
                     <div class="review_card">
                         <div class="row">
                             <div class="col-md-2 user_info">
-                                <figure><img src="img/avatar1.jpg" alt=""></figure>
+                                <figure><img src="img/avatar1.webp" alt=""></figure>
                                 <h5>Marika</h5>
                             </div>
                             <div class="col-md-10 review_content">
@@ -232,7 +232,7 @@ require("layout/navbar.php");
                         
                         <div class="row reply">
                             <div class="col-md-2 user_info">
-                                <figure><img src="img/avatar.jpg" alt=""></figure>
+                                <figure><img src="img/avatar.webp" alt=""></figure>
                             </div>
                             <div class="col-md-10">
                                 <div class="review_content">
@@ -260,41 +260,41 @@ require("layout/navbar.php");
                     </div>
                     <div class="row" data-cues="slideInUp" data-delay="800">
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
-                            <a href="room-details-execu.html" class="box_cat_rooms">
+                            <a href="room-details-execu.php" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/rooms/villa_execu.jpg)"></div>
+                                    <div class="background-image" data-background="url(img/rooms/villa_execu.webp)"></div>
                                     <div class="info">
                                     <em> Start </em>
                                         <small>From IDR.2.000.000/night</small>
                                         <h3>Villa Aqua Executive    </h3>
                                       <!--  <span href="room-details-execu.html">Read more</span>  -->
-                                      <span href="room-details-execu.html">Read More</span>
+                                      <span href="room-details-execu.php">Read More</span>
                                     </div>
                                 </figure>
                             </a>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
-                            <a href="room-details-junior.html" class="box_cat_rooms">
+                            <a href="room-details-junior.php" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/rooms/villa_junior.jpg)"></div>
+                                    <div class="background-image" data-background="url(img/rooms/villa_junior.webp)"></div>
                                     <div class="info">
                                     <em> Start </em>
                                         <small>From IDR.3.000.000/night</small>
                                         <h3>Villa Aqua Junior</h3>
-                                        <span href="room-details-junior.html">Read more</span>
+                                        <span href="room-details-junior.php">Read more</span>
                                     </div>
                                 </figure>
                             </a>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
-                            <a href="room-details-president.html" class="box_cat_rooms">
+                            <a href="room-details-president.php" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/rooms/villa_president.jpg)"></div>
+                                    <div class="background-image" data-background="url(img/rooms/villa_president.webp)"></div>
                                     <div class="info">
                                     <em> Start </em>
                                         <small>From IDR.5.600.000/night</small>
                                         <h3>Villa Aqua President</h3>
-                                        <span href="room-details-president.html">Read more</span>
+                                        <span href="room-details-president.php">Read more</span>
                                     </div>
                                 </figure>
                             </a>

@@ -34,7 +34,7 @@ require("layout/navbar.php");
         
            
    <!--  <div class="hero medium-height jarallax" data-jarallax data-speed="0.2">
-            <img class="background-image" src="img/rooms/header_rooms.jpg" alt="">
+            <img class="background-image" src="img/rooms/header_rooms.webp" alt="">
             <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
                     <small class="slide-animated one">Luxury Resort Bintan</small>
@@ -51,13 +51,13 @@ require("layout/navbar.php");
                     <div class="col-xl-8">
                         <div class="owl-carousel owl-theme carousel_item_1 kenburns rounded-img">
                             <div class="item">
-                                <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/isla_1.jpg"><img src="img/rooms/isla_1.jpg" alt=""></a>
+                                <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/isla_1.webp"><img src="img/rooms/isla_1.webp" alt=""></a>
                             </div>
                             <div class="item">
-                                <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/isla_2.jpg"><img src="img/rooms/isla_2.jpg" alt=""></a>
+                                <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/isla_2.webp"><img src="img/rooms/isla_2.webp" alt=""></a>
                             </div>
                             <div class="item">
-                                <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/isla_3.jpg"><img src="img/rooms/isla_3.jpg." alt=""></a>
+                                <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/isla_3.webp"><img src="img/rooms/isla_3.webp." alt=""></a>
                             </div>
                         </div>
                         <!-- /carousel -->
@@ -109,13 +109,13 @@ require("layout/navbar.php");
                     <div class="col-xl-8 order-xl-2">
                         <div class="owl-carousel owl-theme carousel_item_1 kenburns rounded-img">
                             <div class="item">
-                                <a data-fslightbox="gallery_2" data-type="image" href="img/rooms/villa_execu.jpg"><img src="img/rooms/villa_execu.jpg" alt=""></a>
+                                <a data-fslightbox="gallery_2" data-type="image" href="img/rooms/villa_execu.webp"><img src="img/rooms/villa_execu.webp" alt=""></a>
                             </div>
                             <div class="item">
-                                <a data-fslightbox="gallery_2" data-type="image" href="img/rooms/detail_execu_1.jpg"><img src="img/rooms/detail_execu_1.jpg" alt=""></a>
+                                <a data-fslightbox="gallery_2" data-type="image" href="img/rooms/detail_execu_1.webp"><img src="img/rooms/detail_execu_1.webp" alt=""></a>
                             </div>
                             <div class="item">
-                                <a data-fslightbox="gallery_2" data-type="image" href="img/rooms/detail_execu_2.jpg"><img src="img/rooms/detail_execu_2.jpg" alt=""></a>
+                                <a data-fslightbox="gallery_2" data-type="image" href="img/rooms/detail_execu_2.webp"><img src="img/rooms/detail_execu_2.webp" alt=""></a>
                             </div>
                         </div>
                         <!-- /carousel -->
@@ -162,13 +162,13 @@ require("layout/navbar.php");
                     <div class="col-xl-8">
                         <div class="owl-carousel owl-theme carousel_item_1 kenburns rounded-img">
                             <div class="item">
-                                <a data-fslightbox="gallery_3" data-type="image" href="img/rooms/3.jpg"><img src="img/rooms/villa_junior.jpg" alt=""></a>
+                                <a data-fslightbox="gallery_3" data-type="image" href="img/rooms/villa_junior.webp"><img src="img/rooms/villa_junior.webp" alt=""></a>
                             </div>
                             <div class="item">
-                                <a data-fslightbox="gallery_3" data-type="image" href="img/rooms/opt_3.jpg"><img src="img/rooms/detail_junior_1.jpg" alt=""></a>
+                                <a data-fslightbox="gallery_3" data-type="image" href="img/rooms/detail_junior_1.webp"><img src="img/rooms/detail_junior_1.webp" alt=""></a>
                             </div>
                             <div class="item">
-                                <a data-fslightbox="gallery_3" data-type="image" href="img/rooms/opt_6.jpg"><img src="img/rooms/detail_junior_2.jpg" alt=""></a>
+                                <a data-fslightbox="gallery_3" data-type="image" href="img/rooms/detail_junior_2.webp"><img src="img/rooms/detail_junior_2.webp" alt=""></a>
                             </div>
                         </div>
                         <!-- /carousel -->
@@ -215,13 +215,13 @@ require("layout/navbar.php");
                     <div class="col-xl-8 order-xl-2">
                         <div class="owl-carousel owl-theme carousel_item_1 kenburns rounded-img">
                             <div class="item">
-                                <a data-fslightbox="gallery_4" data-type="image" href="img/rooms/4.jpg"><img src="img/rooms/villa_president.jpg" alt=""></a>
+                                <a data-fslightbox="gallery_4" data-type="image" href="img/rooms/villa_president.webp"><img src="img/rooms/villa_president.webp" alt=""></a>
                             </div>
                             <div class="item">
-                                <a data-fslightbox="gallery_4" data-type="image" href="img/rooms/opt_4.jpg"><img src="img/rooms/detail_president_2.jpg" alt=""></a>
+                                <a data-fslightbox="gallery_4" data-type="image" href="img/rooms/detail_president_2.webp"><img src="img/rooms/detail_president_2.webp" alt=""></a>
                             </div>
                             <div class="item">
-                                <a data-fslightbox="gallery_4" data-type="image" href="img/rooms/opt_7.jpg"><img src="img/rooms/detail_president_3.jpg" alt=""></a>
+                                <a data-fslightbox="gallery_4" data-type="image" href="img/rooms/detail_president_3.webp"><img src="img/rooms/detail_president_3.webp" alt=""></a>
                             </div>
                         </div>
                         <!-- /carousel -->

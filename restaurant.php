@@ -17,7 +17,7 @@ require("layout/navbar.php");
   <main>
         <div id="carousel-home">
             <div class="owl-carousel owl-theme kenburns">
-                <div class="owl-slide background-image cover" data-background="url(img/restaurant/slides/slide_2resto.jpg)">
+                <div class="owl-slide background-image cover" data-background="url(img/restaurant/slides/slide_2resto.webp)">
                     <div class="opacity-mask d-flex align-items-center" >
                         <div class="container">
                             <div class="row justify-content-center justify-content-md-start">
@@ -33,7 +33,7 @@ require("layout/navbar.php");
                     </div>
                 </div>
                 <!--/owl-slide-->
-                <div class="owl-slide background-image cover" data-background="url(img/restaurant/slides/slide_1resto.jpg)">
+                <div class="owl-slide background-image cover" data-background="url(img/restaurant/slides/slide_1resto.webp)">
                     <div class="opacity-mask d-flex align-items-center" >
                     <!-- <div class="opacity-mask d-flex align-items-center" data-opacity-mask="rgba(0, 0, 0, 0.5)">  -->
                         <div class="container">
@@ -50,7 +50,7 @@ require("layout/navbar.php");
                     </div>
                 </div>
                 <!--/owl-slide-->
-                <div class="owl-slide background-image cover" data-background="url(img/restaurant/slides/slide_3resto.jpg)">
+                <div class="owl-slide background-image cover" data-background="url(img/restaurant/slides/slide_3resto.webp)">
                     <div class="opacity-mask d-flex align-items-center" >
                         <div class="container">
                             <div class="row justify-content-center justify-content-md-end">
@@ -207,8 +207,8 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/azura_1.jpg" title="Caesar Salad" data-fslightbox="gallery_1" data-type="image">
-                                                        <img src="img/restaurant/azura_ico_1.jpg" alt="">
+                                                    <a href="img/restaurant/large/azura_1.webp" title="Caesar Salad" data-fslightbox="gallery_1" data-type="image">
+                                                        <img src="img/restaurant/azura_ico_1.webp" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
@@ -220,8 +220,8 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/azura_2.jpg" title="Iga Soup" data-fslightbox="gallery_1" data-type="image">
-                                                        <img src="img/restaurant/azura_ico_2.jpg" alt="">
+                                                    <a href="img/restaurant/large/azura_2.webp" title="Iga Soup" data-fslightbox="gallery_1" data-type="image">
+                                                        <img src="img/restaurant/azura_ico_2.webp" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
@@ -233,8 +233,8 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/azura_3.jpg" title="Batagor" data-fslightbox="gallery_1" data-type="image">
-                                                        <img src="img/restaurant/azura_ico_3.jpg" alt="">
+                                                    <a href="img/restaurant/large/azura_3.webp" title="Batagor" data-fslightbox="gallery_1" data-type="image">
+                                                        <img src="img/restaurant/azura_ico_3.webp" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
@@ -246,8 +246,8 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/azura_4.jpg" title="Lamb Fried Rice" data-fslightbox="gallery_1" data-type="image">
-                                                        <img src="img/restaurant/azura_ico_4.jpg" alt="">
+                                                    <a href="img/restaurant/large/azura_4.webp" title="Lamb Fried Rice" data-fslightbox="gallery_1" data-type="image">
+                                                        <img src="img/restaurant/azura_ico_4.webp" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
@@ -259,8 +259,8 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/azura_5.jpg" title="Sirloin Steak 200gr" data-fslightbox="gallery_1" data-type="image">
-                                                        <img src="img/restaurant/azura_ico_5.jpg" alt="">
+                                                    <a href="img/restaurant/large/azura_5.webp" title="Sirloin Steak 200gr" data-fslightbox="gallery_1" data-type="image">
+                                                        <img src="img/restaurant/azura_ico_5.webp" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
@@ -272,8 +272,8 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/azura_6.jpg" title="Beef Carbonara" data-fslightbox="gallery_1" data-type="image">
-                                                        <img src="img/restaurant/azura_ico_6.jpg" alt="">
+                                                    <a href="img/restaurant/large/azura_6.webp" title="Beef Carbonara" data-fslightbox="gallery_1" data-type="image">
+                                                        <img src="img/restaurant/azura_ico_6.webp" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
@@ -316,8 +316,8 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/ocean_1.jpg" title="Chicken Wanton Noodle Soup" data-fslightbox="gallery_2" data-type="image">
-                                                        <img src="img/restaurant/ocean_ico_1.jpg" alt="">
+                                                    <a href="img/restaurant/large/ocean_1.webp" title="Chicken Wanton Noodle Soup" data-fslightbox="gallery_2" data-type="image">
+                                                        <img src="img/restaurant/ocean_ico_1.webp" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
@@ -329,8 +329,8 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/ocean_2.jpg" title="Chicken Cantonese" data-fslightbox="gallery_2" data-type="image">
-                                                        <img src="img/restaurant/ocean_ico_2.jpg" alt="">
+                                                    <a href="img/restaurant/large/ocean_2.webp" title="Chicken Cantonese" data-fslightbox="gallery_2" data-type="image">
+                                                        <img src="img/restaurant/ocean_ico_2.webp" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
@@ -342,8 +342,8 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/ocean_3.jpg" title="Beef Rendang" data-fslightbox="gallery_2" data-type="image">
-                                                        <img src="img/restaurant/ocean_ico_3.jpg" alt="">
+                                                    <a href="img/restaurant/large/ocean_3.webp" title="Beef Rendang" data-fslightbox="gallery_2" data-type="image">
+                                                        <img src="img/restaurant/ocean_ico_3.webp" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
@@ -355,8 +355,8 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/ocean_4.jpg" title="Salted Egg Squid" data-fslightbox="gallery_2" data-type="image">
-                                                        <img src="img/restaurant/ocean_ico_4.jpg" alt="">
+                                                    <a href="img/restaurant/large/ocean_4.webp" title="Salted Egg Squid" data-fslightbox="gallery_2" data-type="image">
+                                                        <img src="img/restaurant/ocean_ico_4.webp" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
@@ -368,8 +368,8 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/menu_items/large/ocean_5.jpg" title="Salted Egg Squid" data-fslightbox="gallery_2" data-type="image">
-                                                        <img src="img/restaurant/ocean_ico_5.jpg" alt="">
+                                                    <a href="img/menu_items/large/ocean_5.webp" title="Salted Egg Squid" data-fslightbox="gallery_2" data-type="image">
+                                                        <img src="img/restaurant/ocean_ico_5.webp" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">
@@ -381,8 +381,8 @@ require("layout/navbar.php");
                                         <div class="col-lg-6">
                                             <div class="menu_item">
                                                 <figure>
-                                                    <a href="img/restaurant/large/ocean_6.jpg" title="Nasi Goreng Ikan Asin" data-fslightbox="gallery_2" data-type="image">
-                                                        <img src="img/restaurant/ocean_ico_6.jpg" class="lazy" alt="">
+                                                    <a href="img/restaurant/large/ocean_6.webp" title="Nasi Goreng Ikan Asin" data-fslightbox="gallery_2" data-type="image">
+                                                        <img src="img/restaurant/ocean_ico_6.webp" class="lazy" alt="">
                                                     </a>
                                                 </figure>
                                                 <div class="menu_title">

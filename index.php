@@ -9,9 +9,9 @@ require("layout/navbar.php");
 
 <body> 
 
-  <!--   <div id="preloader">
+    <div id="preloader">
         <div data-loader="circle-side"></div>
-    </div>/Page Preload -->
+    </div><!--Page Preload -->
 
     <div class="layer"></div><!-- Opacity Mask -->
 
@@ -70,7 +70,7 @@ require("layout/navbar.php");
         <!-- /main index -->
 
         <div class="hero full-height jarallax" data-jarallax data-speed="0.2">
-            <img class="jarallax-img kenburns" src="img/LDF_8719.jpg" alt="">
+            <img class="jarallax-img kenburns" src="img/LDF_8719.webp" alt="">
             <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
                     <small class="slide-animated one">One of A Kind</small>
@@ -92,8 +92,8 @@ require("layout/navbar.php");
                 <div class="row justify-content-between flex-lg-row-reverse align-items-center">
                     <div class="col-lg-5">
                         <div class="parallax_wrapper">
-                            <img src="img/home_2ooak.jpg" alt="a nother view villa isla" class="img-fluid rounded-img">
-                            <div data-cue="slideInUp" class="img_over"><span data-jarallax-element="-30"><img src="img/home_1ooak.jpg" alt="drone view villa Aqua" class="rounded-img"></span></div>
+                            <img src="img/home_2ooak.webp" alt="a nother view villa isla" class="img-fluid rounded-img">
+                            <div data-cue="slideInUp" class="img_over"><span data-jarallax-element="-30"><img src="img/home_1ooak.webp" alt="drone view villa Aqua" class="rounded-img"></span></div>
                         </div>
                     </div>
                     <div class="col-lg-5">
@@ -148,7 +148,7 @@ require("layout/navbar.php");
                     <div class="col-lg-6">
                         <div class="pinned-image rounded_container pinned-image--small mb-4">
                             <div class="pinned-image__container">
-                                <img src="img/resto_1.jpg" alt="Azura Bistro Resto have vie garden">
+                                <img src="img/resto_1.webp" alt="Azura Bistro Resto have vie garden">
                             </div>
                         </div>
                     </div>
@@ -177,7 +177,7 @@ require("layout/navbar.php");
                     <div class="col-lg-6 order-lg-2">
                         <div class="pinned-image rounded_container pinned-image--small mb-4">
                             <div class="pinned-image__container">
-                                <img src="img/kindstore_2.jpg" alt="Store at One Of A Kind, you can find souvenir or gift here">
+                                <img src="img/kindstore_2.webp" alt="Store at One Of A Kind, you can find souvenir or gift here">
                             </div>
                         </div>
                     </div>
@@ -201,7 +201,7 @@ require("layout/navbar.php");
                     <div class="col-lg-6">
                         <div class="pinned-image rounded_container pinned-image--small mb-4">
                             <div class="pinned-image__container">
-                                <img src="img/mainpool_4.jpg" alt="Infinity Pool have beautyview straigh to the sea">
+                                <img src="img/mainpool_4.webp" alt="Infinity Pool have beautyview straigh to the sea">
                             </div>
                         </div>
                     </div>

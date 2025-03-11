@@ -55,7 +55,7 @@
 
     <section class="menu-section">
         <div class="full-container">
-            <div class="half-container" style="background-image: url(img/daymenu/app.jpg)"></div>
+            <div class="half-container" style="background-image: url(img/daymenu/app.webp)"></div>
 
             <div class="half-container">
                 <div class="txt_container">
@@ -88,7 +88,7 @@
 
     <section class="menu-section">
         <div class="full-container">
-            <div class="half-container" style="background-image: url(img/daymenu/soup.jpg);"></div>
+            <div class="half-container" style="background-image: url(img/daymenu/soup.webp);"></div>
 
             <div class="half-container">
                 <div class="txt_container">
@@ -129,7 +129,7 @@
 
    <section class="menu-section">
         <div class="full-container">
-            <div class="half-container" style="background-image: url(img/daymenu/prawn.jpg);"></div>
+            <div class="half-container" style="background-image: url(img/daymenu/prawn.webp);"></div>
             <div class="half-container">
                 <div class="txt_container">
                     <div class="m_title">
@@ -165,7 +165,7 @@
     
     <section class="menu-section">
         <div class="full-container">
-            <div class="half-container" style="background-image: url(img/daymenu/beef.jpg);"></div>
+            <div class="half-container" style="background-image: url(img/daymenu/beef.webp);"></div>
             <div class="half-container">
                 <div class="txt_container">
                     <div class="m_title">
@@ -197,7 +197,7 @@
     
     <section class="menu-section">
         <div class="full-container">
-            <div class="half-container" style="background-image: url(img/daymenu/azura.jpg);"></div>
+            <div class="half-container" style="background-image: url(img/daymenu/azura.webp);"></div>
 
             <div class="half-container">
                 <div class="txt_container">

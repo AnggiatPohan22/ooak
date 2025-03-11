@@ -16,7 +16,7 @@ require("layout/navbar.php");
     <main>
         <!-- Type Villa -->
         <div class="hero full-height jarallax" data-jarallax data-speed="0.2">
-            <img class="jarallax-img kenburns" src="img/rooms/villa_president.jpg" alt="">
+            <img class="jarallax-img kenburns" src="img/rooms/villa_president.webp" alt="">
             <div class="wrapper opacity-mask d-flex align-items-center  text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
                     <div class="row justify-content-center">
@@ -88,36 +88,36 @@ require("layout/navbar.php");
                 <div data-cues="zoomIn">
                     <div class="owl-carousel owl-theme carousel_item_centered kenburns rounded-img">
                         <div class="item">
-                            <img src="img/rooms/villa_president.jpg" alt="">
+                            <img src="img/rooms/villa_president.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_president_1.jpg" alt="">
+                            <img src="img/rooms/detail_president_1.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_president_2.jpg" alt="">
+                            <img src="img/rooms/detail_president_2.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_president_3.jpg" alt="">
+                            <img src="img/rooms/detail_president_3.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_president_4.jpg" alt="">
+                            <img src="img/rooms/detail_president_4.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_president_5.jpg" alt="">
+                            <img src="img/rooms/detail_president_5.webp" alt="">
                         </div>
                         <div class="item">
-                            <img src="img/rooms/detail_president_6.jpg" alt="">
+                            <img src="img/rooms/detail_president_6.webp" alt="">
                         </div>
                      </div>
                 </div>
                 <div class="text-center mt-5">
-                    <a class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" href="img/rooms/villa_president.jpg">FullScreen Gallery</a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_president_1.jpg"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_president_2.jpg"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_president_3.jpg"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_president_4.jpg"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_president_5.jpg"></a>
-                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_president_6.jpg"></a>
+                    <a class="btn_1 outline" data-fslightbox="gallery_1" data-type="image" href="img/rooms/villa_president.webp">FullScreen Gallery</a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_president_1.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_president_2.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_president_3.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_president_4.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_president_5.webp"></a>
+                    <a data-fslightbox="gallery_1" data-type="image" href="img/rooms/detail_president_6.webp"></a>
                 </div>
             </div>
         </div>
@@ -136,9 +136,9 @@ require("layout/navbar.php");
                     </div>
                     <div class="row" data-cues="slideInUp" data-delay="800">
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
-                            <a href="room-details-isla.html" class="box_cat_rooms">
+                            <a href="room-details-isla.php" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/rooms/villa_isla.jpg)"></div>
+                                    <div class="background-image" data-background="url(img/rooms/villa_isla.webp)"></div>
                                     <div class="info">
                                     <em> Start </em>
                                         <small>From IDR.1.700.000/night</small>
@@ -149,9 +149,9 @@ require("layout/navbar.php");
                             </a>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
-                            <a href="room-details-execu.html" class="box_cat_rooms">
+                            <a href="room-details-execu.php" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/rooms/villa_execu.jpg)"></div>
+                                    <div class="background-image" data-background="url(img/rooms/villa_execu.webp)"></div>
                                     <div class="info">
                                     <em> Start </em>
                                         <small>From IDR.2.000.000/night</small>
@@ -162,9 +162,9 @@ require("layout/navbar.php");
                             </a>
                         </div>
                         <div class="col-xl-4 col-lg-6 col-md-6 col-sm-6">
-                            <a href="room-details-junior.html" class="box_cat_rooms">
+                            <a href="room-details-junior.php" class="box_cat_rooms">
                                 <figure>
-                                    <div class="background-image" data-background="url(img/rooms/villa_junior.jpg)"></div>
+                                    <div class="background-image" data-background="url(img/rooms/villa_junior.webp)"></div>
                                     <div class="info">
                                     <em> Start </em>
                                         <small>From IDR.3.000.000/night</small>

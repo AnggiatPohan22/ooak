@@ -129,7 +129,7 @@
     <main>
 
         <div class="hero medium-height jarallax" data-jarallax data-speed="0.2">
-            <img class="jarallax-img" src="img/rooms/4.jpg" alt="">
+            <img class="jarallax-img" src="img/rooms/4.webp" alt="">
             <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
                     <small class="slide-animated one">Luxury Hotel Experience</small>
@@ -143,7 +143,7 @@
             <div class="row_list_version_1">
                 <div class="pinned-image rounded_container pinned-image--medium">
                     <div class="pinned-image__container">
-                        <img src="img/rooms/1.jpg" alt="">
+                        <img src="img/rooms/1.webp" alt="">
                     </div>
                 </div>
                 <!-- /pinned-image -->
@@ -190,7 +190,7 @@
             <div class="row_list_version_1">
                 <div class="pinned-image rounded_container pinned-image--medium">
                     <div class="pinned-image__container">
-                        <img src="img/rooms/2_b.jpg" alt="">
+                        <img src="img/rooms/2_b.webp" alt="">
                     </div>
                 </div>
                 <!-- /pinned-image -->
@@ -237,7 +237,7 @@
             <div class="row_list_version_1">
                 <div class="pinned-image rounded_container pinned-image--medium">
                     <div class="pinned-image__container">
-                        <img src="img/rooms/3_b.jpg" alt="">
+                        <img src="img/rooms/3_b.webp" alt="">
                     </div>
                 </div>
                 <!-- /pinned-image -->
@@ -284,7 +284,7 @@
             <div class="row_list_version_1">
                 <div class="pinned-image rounded_container pinned-image--medium">
                     <div class="pinned-image__container">
-                        <img src="img/rooms/4.jpg" alt="">
+                        <img src="img/rooms/4.webp" alt="">
                     </div>
                 </div>
                 <!-- /pinned-image -->
@@ -444,7 +444,7 @@
     <footer class="revealed">
         <div class="footer_bg">
             <div class="gradient_over"></div>
-            <div class="background-image" data-background="url(img/rooms/3.jpg)"></div>
+            <div class="background-image" data-background="url(img/rooms/3.webp)"></div>
         </div>
         <div class="container">
             <div class="row move_content">
