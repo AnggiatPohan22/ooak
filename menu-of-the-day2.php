@@ -42,9 +42,9 @@
 
 <body>
 
-    <div id="preloader">
+   <!-- <div id="preloader">
         <div data-loader="circle-side"></div>
-    </div><!-- /Page Preload -->
+    </div> /Page Preload -->
 
     <section class="menu-section">
         <div class="full-container">
@@ -236,12 +236,12 @@
     <!-- /back to top -->
 
     <!-- COMMON SCRIPTS -->
-    <script src="js/common_scripts.js"></script>
-    <script src="js/common_functions.js"></script>
-    <script src="phpmailer/validate.js"></script>
+    <script src="js/common_scripts.js" defer></script>
+    <script src="js/common_functions.js" defer></script>
+    <script src="phpmailer/validate.js" defer></script>
 
     <!-- Specific scripts -->
-    <script src="js/day_menu.js"></script>
+    <script src="js/day_menu.js" defer></script>
 
 </body>
 

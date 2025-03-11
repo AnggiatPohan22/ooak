@@ -94,6 +94,7 @@ Author URI: http://themeforest.net/user/Ansonika/
   -moz-transition-delay: 1s;
   -o-transition-delay: 1s;
   transition-delay: 1s;
+  visibility: hidden;
 }
 
 [data-loader="circle-side"] {

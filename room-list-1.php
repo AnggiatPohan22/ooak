@@ -31,9 +31,9 @@
 
 <body> 
 
-    <div id="preloader">
+  <!--  <div id="preloader">
         <div data-loader="circle-side"></div>
-    </div><!-- /Page Preload -->
+    </div> /Page Preload -->
 
     <div class="layer"></div><!-- Opacity Mask -->
 

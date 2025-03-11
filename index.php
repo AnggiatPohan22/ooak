@@ -9,9 +9,9 @@ require("layout/navbar.php");
 
 <body> 
 
-    <div id="preloader">
+   <!-- <div id="preloader">
         <div data-loader="circle-side"></div>
-    </div><!--Page Preload -->
+    </div> Page Preload -->
 
     <div class="layer"></div><!-- Opacity Mask -->
 
@@ -70,7 +70,7 @@ require("layout/navbar.php");
         <!-- /main index -->
 
         <div class="hero full-height jarallax" data-jarallax data-speed="0.2">
-            <img class="jarallax-img kenburns" src="img/LDF_8719.webp" alt="">
+            <img class="jarallax-img kenburns" src="img/LDF_8719.webp" alt="" srcset="">
             <div class="wrapper opacity-mask d-flex align-items-center justify-content-center text-center animate_hero" data-opacity-mask="rgba(0, 0, 0, 0.5)">
                 <div class="container">
                     <small class="slide-animated one">One of A Kind</small>
@@ -258,11 +258,11 @@ require("layout/navbar.php");
     <!-- /back to top -->
 
 <!-- COMMON SCRIPTS -->
-<script src="js/common_scripts.js"></script>
-<script src="js/common_functions.js"></script>
-<script src="js/datepicker_search.js"></script>
-<script src="js/datepicker_inline.js"></script>
-<script src="phpmailer/validate.js"></script>
+<script src="js/common_scripts.js" defer></script>
+<script src="js/common_functions.js" defer></script>
+<script src="js/datepicker_search.js" defer></script>
+<script src="js/datepicker_inline.js" defer></script>
+<script src="phpmailer/validate.js" defer></script>
 
 </body>
 </html>

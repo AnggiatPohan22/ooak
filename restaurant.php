@@ -8,9 +8,9 @@ require("layout/navbar.php");
 
 <body> 
 
-    <div id="preloader">
+   <!-- <div id="preloader">
         <div data-loader="circle-side"></div>
-    </div><!-- /Page Preload -->
+    </div> /Page Preload -->
 
     <div class="layer"></div><!-- Opacity Mask -->
 
@@ -425,12 +425,12 @@ require("layout/navbar.php");
 
 
 <!-- COMMON SCRIPTS -->
-<script src="js/common_scripts.js"></script>
-<script src="js/common_functions.js"></script>
-<script src="phpmailer/validate.js"></script>
+<script src="js/common_scripts.js" defer></script>
+<script src="js/common_functions.js" defer></script>
+<script src="phpmailer/validate.js" defer></script>
 
 <!-- SPECIFIC SCRIPTS -->
-<script src="js/slider.js"></script>
+<script src="js/slider.js" default></script>
 
 </body>
 </html>

@@ -7,7 +7,7 @@
                 <div class="row justify-content-center home">
                     <div class="item col-xl-4 col-lg-6">
                         <a href="#" class="box_contents" data-cue="slideInUp" data-delay="300">
-                            <figure><img src="img/ramadhan.jpg" alt="Sweetember Promo" class="img-fluid"><em>1 - 31 September</em></figure>
+                            <figure><img src="img/package/coming_soon1.webp" alt="Sweetember Promo" class="img-fluid"><em>1 - 31 September</em></figure>
                             <div class="wrapper">
                                 <small>Sweetember<span></span></small>
                                 <h2>Promo Sweetember 2024</h2>
@@ -17,7 +17,7 @@
                     </div>
                     <div class="item col-xl-4 col-lg-6">
                         <a href="#" class="box_contents" data-cue="slideInUp" data-delay="400">
-                            <figure><img src="img/call&deal.jpg" alt="Promo Call & Deal for this Month" class="img-fluid"><em>March</em></figure>
+                            <figure><img src="img/package/coming_soon2.webp" alt="Promo Call & Deal for this Month" class="img-fluid"><em>March</em></figure>
                             <div class="wrapper">
                                 <small>Hot Deal<span></span></small>
                                 <h2>Call & Deal Promo</h2>
@@ -27,7 +27,7 @@
                     </div>
                     <div class="item col-xl-4 col-lg-6">
                         <a href="#" class="box_contents" data-cue="slideInUp" data-delay="500">
-                            <figure><img src="img/F&Bpromo.jpg" alt="F&B Promo of the month Package" class="img-fluid"><em>March - Mei</em></figure>
+                            <figure><img src="img/package/coming_soon3.webp" alt="F&B Promo of the month Package" class="img-fluid"><em>March - Mei</em></figure>
                             <div class="wrapper">
                                 <small>F&B Promo<span></span></small>
                                 <h2>Of The Month Package</h2>
