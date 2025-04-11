@@ -61,7 +61,7 @@ require("layout/navbar.php");
                 <div class="mouse_wp slide-animated four">
                     <a href="index.php" class="btn_scrollto">
                         <div class="mouse"></div>
-                    </a>
+                    </a> more
                 </div>
                  /mouse_wp 
             </div>
@@ -77,6 +77,11 @@ require("layout/navbar.php");
                     <h3 class="slide-animated two">A unique Experience<br>where to stay</h3>
                     <small > </small>
                    <div class="slide-animated three"><a class="btn_1 outline white mt-3" href="view_all_villa.php">Read more</a></div>
+
+
+                   <?php
+                    require("layout/booking.php")
+                    ?>
                 </div>
                 <div class="mouse_wp slide-animated four">
                     <a href="#first_section" class="btn_scrollto">
